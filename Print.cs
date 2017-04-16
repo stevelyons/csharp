@@ -17,8 +17,9 @@ public class Print
       System.Console.WriteLine("This is the seventh statement.");
       // this is a comment 
       System.Console.WriteLine("This is the eighth statement.");
-      // this is co
-      
-      System.Console.WriteLine("This is the NINTH statement.");
+      // this is comment
+      System.Console.WriteLine("This is the ninth statement.");
+      // this is comment
+      System.Console.WriteLine("This is the tenth statement.");
    }
 }
