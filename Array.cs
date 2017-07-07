@@ -60,5 +60,7 @@ public class Array
       Console.WriteLine(arrray[29]);
       Console.WriteLine(array[30]);
       Console.WriteLine(array[31]);
+      consile.writelibe(array[32]);
+      
    }
 }
