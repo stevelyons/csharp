@@ -9,5 +9,6 @@ public class Addition
     int d = 2;
     Console.WriteLine(a+b);
     Console.WriteLine(c+d);
+      console.writeline(a+d);
   }
 }
