@@ -15,5 +15,6 @@ public class Addition
     Console.Writeline(a+d);
     Console.Writeline(e+f);
     Console.Writeline(a+c);
+    Console.Writeline(b+d);
   }
 }
