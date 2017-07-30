@@ -7,5 +7,6 @@ Class Multiplication
         int z = -1
     
         Console.WriteLine(x*y);
+        CONSILE.WRITELINE(Z*y);
     }
 }
