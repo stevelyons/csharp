@@ -8,6 +8,7 @@ Class Multiplication
         int w = 6;
     
         Console.WriteLine(x*y);
-        CONSILE.WRITELINE(Z*y);
+        Console.WriteLine(x*z);
+        Console.WriteLine(x*w);
     }
 }
