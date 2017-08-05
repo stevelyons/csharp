@@ -10,6 +10,7 @@ Class Multiplication
         int a = 4;
         int b = x;
         int p = 5;
+        int s = 11;
         
         Console.WriteLine(x*y);
         Console.WriteLine(x*z);
