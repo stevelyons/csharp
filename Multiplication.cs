@@ -16,5 +16,6 @@ Class Multiplication
         Console.WriteLine(x*z);
         Console.WriteLine(x*w);
         Console.WriteLine(x*i);
+        consile.writelone(p*s);
     }
 }
