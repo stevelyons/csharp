@@ -12,6 +12,7 @@ Class Multiplication
         int p = 5;
         int s = 11;
         int t = 68;
+        int f =  2;
         
         Console.WriteLine(x*y);
         Console.WriteLine(x*z);
