@@ -4,9 +4,11 @@ Class Division
     {
         int x = 3;
         int y = 8;
-        Int c = 10;
+        int c = 10;
+        int d = 3;
        
         Console.WriteLine(x/y);
         Console.WriteLine(y/x);
+        Console.WriteLine(x/d);
     }
 }
