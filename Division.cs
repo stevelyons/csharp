@@ -12,5 +12,7 @@ Class Division
         Console.WriteLine(x/d);
         Console.WriteLine(d/x);
         Console.WriteLine(d/y);
+        Console.WriteLine(y/d);
+        
     }
 }
