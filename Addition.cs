@@ -7,18 +7,17 @@ public class Addition
       
     int c = 7;
     int d = 2;
-      
+      IntIng I = 67;
     int e = 9;
     int f = 1;
-      
-      
-      int i = 20;
     Console.WriteLine(a+b);
     Console.WriteLine(c+d);
     Console.Writeline(a+d);
     Console.Writeline(e+f);
     Console.Writeline(a+c);
     Console.Writeline(b+d);
-      Console.writeline(a+d);
+    Console.wtiteline (a+e);
+      Console.wtiteline (a+b+c);
+      
   }
 }
