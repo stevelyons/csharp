@@ -27,5 +27,7 @@ Class Division
         Console.writeline (g/e);
         Console.writeline (o/i);
         Console.writeline (d/o);
+        // adding and dividing variables
+        Console.writeline (x+y/o);
     }
 }
