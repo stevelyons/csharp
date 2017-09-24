@@ -22,5 +22,7 @@ public class Addition
       
       // 
       Console.wtiteline (a+b+c+e+g+i);
+      Console.wtiteline (i+g+e+c+b+a);
+      
   }
 }
