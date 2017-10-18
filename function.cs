@@ -62,5 +62,6 @@ class Function
     
     Add(x, y);
     Subtraction(x,y);
+    Add(3,8);
   }
 }
