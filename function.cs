@@ -64,5 +64,7 @@ class Function
     Subtraction(x,y);
     Add(3,8);
     Subtraction(9,7);
+    // more functions
+    Divide(7,5);
   }
 }
