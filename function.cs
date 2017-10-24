@@ -40,7 +40,7 @@ class Function
     int sum = x + y;
     return sum;
   }
-  
+  // return an int value
   int Subtraction(int x, int y)
   {
     int difference = x - y;
