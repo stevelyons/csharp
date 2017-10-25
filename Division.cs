@@ -2,6 +2,7 @@ Class Division
 {
     public static void Main()
     {
+        // variables 
         int x = 3;
         int y = 8;
         int c = 10;
@@ -31,5 +32,7 @@ Class Division
         // adding and dividing variables
         Console.writeline (x+y/o);
         Console.writeline (x*b/o);
+        
+        Tho is random 
     }
 }
