@@ -5,7 +5,7 @@ public class Addition
       // variables
     int a = 5;
     int b = 3;
-      
+      // mor e vars
     int c = 7;
     int d = 2;
     int i = 67;
