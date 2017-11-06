@@ -29,6 +29,8 @@ public class Array
       array[21] = 22;
       array[22] = 23;
       
+      // printthe array element 
+      
       Console.WriteLine(array[0]);
       Console.WriteLine(array[1]);
       Console.WriteLine(array[2]);
