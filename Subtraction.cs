@@ -8,6 +8,7 @@ public class Subtraction
     int c = 4;
     int d = 7;
 
+      // print the results
     Console.WriteLine(a-b);
     Console.writeline(b-a);
     Console.WriteLine(a-c);
