@@ -21,6 +21,8 @@ public class Addition
     Console.wtiteline (a+e);
     Console.wtiteline (a+b+c);
     Console.wtiteline (e+g+i);   
+      //add the variables
+      
       
       // 
       Console.wtiteline (a+b+c+e+g+i);
