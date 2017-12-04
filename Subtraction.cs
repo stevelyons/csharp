@@ -8,16 +8,15 @@ public class Subtraction
     int c = 4;
     int d = 7;
 
-      // print the results
+    // print the results
     Console.WriteLine(a-b);
     Console.writeline(b-a);
     Console.WriteLine(a-c);
     Console.WriteLine(d-c);
-      // multiple 
+    // multiple variable subtraction
     Console.WriteLine(a-b-c-d);
     Console.WriteLine(d-c-b-a);
     Console.WriteLine(a+c-b+d);
-      
-      // no variables
+    // end of program
   }
 }
