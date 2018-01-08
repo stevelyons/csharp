@@ -20,7 +20,7 @@ public class Addition
     Console.Writeline(a+c);
     Console.Writeline(b+d);
     Console.wtiteline (a+e);
-    // add three variables 
+    // add three or more variables 
     Console.wtiteline (a+b+c);
     Console.wtiteline (e+g+i);   
     //add multiple variables
