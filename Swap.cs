@@ -7,7 +7,7 @@ public class Swap
     int b = 3;
     // the swap variable
     int swap = 0;
-    // print vriabls
+    // print the variables
     Console.WriteLine(a);
     Console.WriteLine(b);
       // swap the variables
