@@ -8,6 +8,7 @@ public class Array
       // create a double array
       double[] doubleArray = new double[10];
       
+      // set the first array entry to 1
       array[0] = 1;
       array[1] = 2;
       array[2] = 3;
