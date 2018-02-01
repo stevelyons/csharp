@@ -2,7 +2,7 @@ Class Multiplication
 {
     public static void Main()
     {
-    // how to multiply
+        // demostration of multiplying various variables 
         // variables 
         int x = 3;
         int y = 8;
