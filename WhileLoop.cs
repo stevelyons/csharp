@@ -3,8 +3,7 @@ public class WhileLoop
    // while loops 
    public static void Main()
    {
-      // this is a comment 
-      // count int 
+      // int to hold the counter
       int i = 5;
       while(i > 0)
       {
