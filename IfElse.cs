@@ -2,8 +2,10 @@ public class IfElse
   {
     static void Main(string[] args)
     {
+      // variables 
       int a = 5, b = 5, c = 10;
 
+      // if a is equal to b 
       if (a == b)
         Console.WriteLine(a);
 
