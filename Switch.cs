@@ -18,4 +18,4 @@ public class Switch
         break;
       }
    }
-}
+}// end of program 
