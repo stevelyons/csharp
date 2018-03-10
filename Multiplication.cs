@@ -4,6 +4,7 @@ Class Multiplication
     {
         // demostration of multiplying various variables 
         // variables 
+        // multiply 
         int x = 3;
         int y = 8;
         // negative integer
