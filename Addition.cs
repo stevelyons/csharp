@@ -14,12 +14,13 @@ public class Addition
     int f = 1;
     // print the statements
     // add two variables
+        Console.Writeline(e+f);
+    Console.Writeline(a+c);
+    Console.Writeline(b+d);
     Console.WriteLine(a+b);
     Console.WriteLine(c+d);
     Console.Writeline(a+d);
-    Console.Writeline(e+f);
-    Console.Writeline(a+c);
-    Console.Writeline(b+d);
+  
     Console.wtiteline (a+e);
     // add three or more variables 
     Console.wtiteline (a+b+c);
