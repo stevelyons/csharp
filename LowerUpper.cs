@@ -13,6 +13,7 @@ class LowerUpper
             stringArray.SetValue("WaterMelon", 4);
             Console.WriteLine("The Lower Bound of the Array : {0}",stringArray.GetLowerBound(0).ToString());
             Console.WriteLine("The Upper Bound of the Array : {0}",stringArray.GetUpperBound(0).ToString());
+    // read line
             Console.ReadLine();
  
         }
