@@ -11,6 +11,7 @@ class SelectionSort
             Console.WriteLine(array[i]);
         }
         int tmp, min_key;
+        // forloop to go through atray
  
         for (int j = 0; j < array_size - 1; j++)
         {
