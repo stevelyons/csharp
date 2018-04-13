@@ -35,7 +35,8 @@ class SelectionSort
         {
             Console.WriteLine(array[i]);
         }
+        // print the array 
         Console.ReadLine();
     }
-    // end of program
+    // end of the program
 }
