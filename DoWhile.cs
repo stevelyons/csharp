@@ -8,7 +8,7 @@ public class DoWhile
       // 3xecute at least once 
       do 
       {
-        // increment
+        // increment by one 
         x++;
       }
       // while the x variable is less than 10 
