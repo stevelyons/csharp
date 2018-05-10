@@ -17,5 +17,5 @@ class LowerUpper
             Console.ReadLine();
  
         }
-    } // end of program 
+    } // end of  thr program 
 }
