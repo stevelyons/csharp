@@ -11,10 +11,10 @@ public class IfElse
       // if a is equal to b 
       if (a == b)
         Console.WriteLine(a);
-// or statement 
+      // or statement 
       if ((a > c) || (a == b))
         Console.WriteLine(b);
-
+       // and comparison
       if ((a >= c) && (b <= c))
         Console.WriteLine(c);
     }
