@@ -5,5 +5,5 @@ class Help
   {
     // print statement
     System.out.println("Please assist with error");
-  }
+  } // end of program 
 }
