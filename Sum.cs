@@ -13,6 +13,7 @@ class Sum
       num = num / 10;
       sum = sum + r;
     }
+    // print the sum 
       Console.WriteLine("Sum of Digits of the Number : "+sum);
       Console.ReadLine();
   }
