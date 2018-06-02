@@ -35,6 +35,7 @@ Class Multiplication
         // multiply 3 variables 
         Console.WriteLine(x*y*z);
         Console.WriteLine(a*b*s);
+        // mutiple vars 
         Console.WriteLine(i*b*p);
         // end of the program 
         }
