@@ -3,9 +3,7 @@ class Help
 {
   public static void Main()
   {
-    // print statement
+    // print the prompt asking foe help 
     System.out.println("Please assist with error");
-    
-    // more cofr 
   } // end of program 
 }
