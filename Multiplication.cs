@@ -5,6 +5,7 @@ using System.Text;
 
 Class Multiplication
 {
+    // multiplication 
     public static void Main()
     {
         // demostration of multiplying various variables 
