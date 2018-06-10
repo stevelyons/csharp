@@ -4,6 +4,7 @@ public class DoWhile
    // while loops 
    public static void Main()
    {
+      // set thr count 
     int x = 3;
       // execute the action at least once 
       do 
