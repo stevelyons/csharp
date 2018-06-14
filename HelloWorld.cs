@@ -7,6 +7,7 @@ public class HelloWord
 System.Console.WriteLine("Hello, World!");
       // this is another statement
       System.Console.WriteLine("My name is Bob.");
+      //ine
       
    } // end of the program
 }
