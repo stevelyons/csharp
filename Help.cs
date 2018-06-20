@@ -5,5 +5,5 @@ class Help
   {
     // print the prompt asking foe help 
     System.out.println("Please assist with error");
-  } // end of program 
+  } // end of help.cs
 }
