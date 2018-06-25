@@ -24,6 +24,7 @@ class pro
         }
         else
         {
+            //whenndone tetuen 0
             return 0;
         }
     }// end of the program
