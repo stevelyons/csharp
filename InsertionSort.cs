@@ -6,6 +6,7 @@ class InsertionSort
         int[] num = { 69, 56, 77, 44, 8, 0, 111, 566 };
         for (int i = 1; i < num.Length; i++)
         {
+            /: set ghe key 
             int key = num[i];
             int j = i - 1;
             while (j >= 0 && num[j] > key)
