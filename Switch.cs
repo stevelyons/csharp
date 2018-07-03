@@ -3,7 +3,7 @@ public class Switch
    public static void Main()
    {
     int i = 1;
-    
+    // set condition
     switch (i)
     {
       case 1:
