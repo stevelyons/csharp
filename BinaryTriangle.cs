@@ -26,6 +26,7 @@ class BinaryTriangle
                         lastInt = 1;
                     }
                 } Console.Write("\n");
+             // hey 
             }
             Console.ReadLine();
         } // end of program 
