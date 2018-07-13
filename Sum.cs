@@ -7,6 +7,7 @@ class Sum
     int num, sum = 0, r;
     Console.WriteLine("Enter a Number : ");
     num = int.Parse(Console.ReadLine());
+    // while loop
     while (num != 0)
     {
       r = num % 10;
