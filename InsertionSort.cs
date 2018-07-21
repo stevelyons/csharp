@@ -8,6 +8,7 @@ class InsertionSort
         {
             /: set ghe key 
             int key = num[i];
+            //decrement
             int j = i - 1;
             while (j >= 0 && num[j] > key)
             {
