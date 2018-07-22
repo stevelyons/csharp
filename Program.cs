@@ -6,7 +6,7 @@ class TestApp
 {
 			// this is a sample comment 
 			Console.WriteLine("this is the test program");
-	   // second comment
+	   // second comment pf the prpgram
 			Console.WriteLine("this is the test program");
 		}
 	} // end of the program
