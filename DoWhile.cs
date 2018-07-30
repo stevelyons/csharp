@@ -9,7 +9,7 @@ public class DoWhile
       // execute the action at least once 
       do 
       {
-        // increment by one 
+        // increment by two
         x++;
       }
       // while the x variable is less than 10 
