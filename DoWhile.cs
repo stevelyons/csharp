@@ -13,6 +13,7 @@ public class DoWhile
         x++;
       }
       // while the x variable is less than 10 
+      // get it 
      while(x < 10)
      {
         
