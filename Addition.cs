@@ -12,6 +12,7 @@ public class Addition
       // more variables
     int i = 67;
     int e = 9;
+    // the last variable 
     int f = 1;
     // print the statements
     // add two variables
