@@ -7,8 +7,9 @@ class BinaryTriangle
     {
         public static void Main(String[] args)
         {
-         // variables 
+         // variables
             int p, lastInt = 0, input;
+         // get the number of rows
             Console.WriteLine("Enter the Number of Rows : ");
             input = int.Parse(Console.ReadLine());
             for (int i = 1; i <= input; i++)
@@ -17,6 +18,7 @@ class BinaryTriangle
                 {
                     if (lastInt == 1)
                     {
+                     // print item
                         Console.Write("0");
                         lastInt = 0;
                     }
@@ -26,8 +28,7 @@ class BinaryTriangle
                         lastInt = 1;
                     }
                 } Console.Write("\n");
-             // hey 
             }
             Console.ReadLine();
-        } // end of program 
-    }
+        } 
+    } // end of program 
