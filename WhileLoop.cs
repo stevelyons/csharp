@@ -16,6 +16,7 @@ public class WhileLoop
       // while loop
       while(j < 5)
       {
+         // print the current count
          System.Console.WriteLine("The current count is lower than 5.");
          j++;
       }
