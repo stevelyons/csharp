@@ -2,8 +2,7 @@ public class Addition
 {
    public static void Main()
    {
-      // demo how to create ArrayList
-      // create instance of ArrayList
+      // demo how to create ArrayList , create instance of ArrayList
       ArrayList myArrayList = new ArrayList();
       // add the integer 56 to the ArrayList
       myArrayList.Add(56);
