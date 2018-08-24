@@ -9,8 +9,7 @@ Class Multiplication
     public static void Main()
     {
         // demostration of multiplying various variables 
-        // variables 
-        // multiply 
+        // how to multiply variables 
         int x = 3;
         int y = 8;
         // negative integer
