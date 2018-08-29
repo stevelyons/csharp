@@ -8,6 +8,7 @@ public class Subtraction
       // four variables to hold int 
     int a = 5;
     int b = 3;
+      // integer
     int c = 4;
       // integer
     int d = 7;
