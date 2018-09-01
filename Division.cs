@@ -13,6 +13,7 @@ Class Division
         int i = 56;
         int o = 32;
         int k = 89;
+        // integer
         int f = e;
         // negative num
         int negativeNum = -12;
