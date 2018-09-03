@@ -10,7 +10,7 @@ public static void QuickSort (int[] data, int l, int r)
          while (true) {
             while (data[i] < x)
                i++;
-            while (x < data[j])
+/             while (x < data[j])
                j--;
             if (i <= j) {
                exchange (data, i, j);
