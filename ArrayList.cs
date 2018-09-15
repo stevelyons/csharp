@@ -9,6 +9,7 @@ public class Addition
       // add 
       myArrayList.AddmyArrayList.Add(12);
       // add string to the ArrayList
+      // adds srring to the end
       myArrayList.Add("String");
       // create newform
       myArrayList.Add(new Form());  
