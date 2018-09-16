@@ -11,6 +11,7 @@ class InsertionSort
             int key = num[i];
             //decrement
             int j = i - 1;
+            // while loop
             while (j >= 0 && num[j] > key)
             {
                 //loop
