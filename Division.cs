@@ -10,12 +10,13 @@ Class Division
         int d = 3;
         int e = 18;
         int w = 7;
+        // more variables
         int i = 56;
         int o = 32;
         int k = 89;
         // integer
         int f = e;
-        // negative num
+        // negative integer
         int negativeNum = -12;
        
         Console.WriteLine(x/y);
