@@ -2,6 +2,7 @@
       {
       // int variables to compare
          int i, j;
+      // length 
          int N = data.Length;
 
          for (j=N-1; j>0; j--) {
