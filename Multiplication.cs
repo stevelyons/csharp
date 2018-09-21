@@ -17,6 +17,7 @@ Class Multiplication
         int w = 6;
         int i = 8;
         int a = 4;
+        // variable transfer
         int b = x;
         int p = 5;
         int s = 11;
