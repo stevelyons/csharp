@@ -6,6 +6,7 @@ class ForEach
     ArrayList list = new ArrayList();
     list.Add("John Doe");
     list.Add("Jane Doe");
+    //addnae 
     list.Add("Someone Else");
             
     foreach(string name in list)
