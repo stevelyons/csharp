@@ -1,12 +1,12 @@
 Using System;
 public class Print
 {
+   // this program prints statements
    public static void Main()
    {
-      // this starement prints comments
       // this is the first comment 
       System.Console.WriteLine("This is the first statement.");
-      // this is the second comment 
+      // this is a comment 
       System.Console.WriteLine("This is the second statement.");
       // this is a comment 
       System.Console.WriteLine("This is the third statement.");
@@ -28,6 +28,6 @@ public class Print
       System.Console.WriteLine("This is the eleventh statement.");
       // this is a comment
        System.Console.WriteLine("This is the last statement.");
-      // end of program
+      // end of the program 
    }
 }
