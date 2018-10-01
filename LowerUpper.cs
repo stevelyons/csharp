@@ -10,6 +10,7 @@ class LowerUpper
     stringArray.SetValue("Orange", 1);
     stringArray.SetValue("Apple", 2);
             stringArray.SetValue("Grape", 3);
+    // set value 
             stringArray.SetValue("Cherry", 4);
     // ser value 
             stringArray.SetValue("WaterMelon", 4);
