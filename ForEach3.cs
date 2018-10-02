@@ -10,11 +10,12 @@ namespace WindowsApplication1
             // intialize
             InitializeComponent();
         }
-
+p
         private void button1_Click(object sender, EventArgs e)
         {
         // array of days
             string[] days = { "Sunday", "Monday", "TuesDay", "Wednesday", "Thursday", "Friday", "Saturday" };
+            // inseet
             foreach (string day in days)
             {
             // print message 
