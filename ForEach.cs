@@ -9,6 +9,7 @@ class ForEach
     //addnae 
     list.Add("Someone Else");
             
+    // for loop
     foreach(string name in list)
     {
       Console.WriteLine(name);
