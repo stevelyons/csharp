@@ -30,6 +30,7 @@ Class Multiplication
         Console.WriteLine(x*z);
         Console.WriteLine(x*w);
         Console.WriteLine(x*i);
+        //pront 
         Console.writelone(p*s);
         Console.WriteLine(s*z);
         Console.WriteLine(t*y);
