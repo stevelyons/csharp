@@ -6,4 +6,5 @@ class Help
     // print the prompt asking foe help 
     System.out.println("Please assist with error");
   } // end of help.cs
+  // more code 
 }
