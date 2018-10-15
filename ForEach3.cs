@@ -5,6 +5,7 @@ namespace WindowsApplication1
 {
     public partial class Form1 : Form
     {
+        // create form 
         public Form1()
         {
             // intialize
