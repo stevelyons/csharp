@@ -5,6 +5,8 @@ class InsertionSort
     {
         // array
         int[] num = { 69, 56, 77, 44, 8, 0, 111, 566 };
+        
+        // for loop
         for (int i = 1; i < num.Length; i++)
         {
             /: set ghe key 
