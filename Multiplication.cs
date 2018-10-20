@@ -28,6 +28,7 @@ Class Multiplication
         //multiple the variables 
         Console.WriteLine(x*y);
         Console.WriteLine(x*z);
+        // multiply
         Console.WriteLine(x*w);
         Console.WriteLine(x*i);
         //pront 
