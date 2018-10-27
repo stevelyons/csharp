@@ -16,6 +16,7 @@ public class DoWhile
       // get it 
      while(x < 10)
      {
+        // action
         
      }
    }// end of the program 
