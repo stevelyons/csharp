@@ -3,6 +3,7 @@ class SelectionSort
 {
     static void Main(string[] args)
     {
+        // set the array size
         int array_size = 10;
         // create new array from array size
         int[] array = new int[10] { 100, 50, 20, 40, 10, 60, 80, 70, 90, 30 };
