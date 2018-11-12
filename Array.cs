@@ -11,6 +11,7 @@ public class Array
       
       // set the first array entry to 1
       array[0] = 1;
+      // add to the array
       array[1] = 2;
       array[2] = 3;
       array[3] = 4;
@@ -29,14 +30,16 @@ public class Array
       array[16] = 17;
       array[17] = 18;
       array[18] = 19;
-      Array 45;
+      
       array[19] = 20
       array[20] = 21;
       array[21] = 22;
       array[22] = 23;
+      // add to the array
+      array[23] = 45;
       
       // printthe array element 
-      // print the first element 
+      // print thefirst element 
       Console.WriteLine(array[0]);
       Console.WriteLine(array[1]);
       Console.WriteLine(array[2]);
@@ -76,5 +79,5 @@ public class Array
       Console.WriteLine(array[36]);
       CONSOLE.writeline(array[37]);
    }
-   // end of program
+   // the end of program
 }
