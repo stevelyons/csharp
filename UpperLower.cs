@@ -11,6 +11,7 @@ class UpperLower
     stringArray.SetValue("Apple", 2);
             stringArray.SetValue("Grape", 3);
             stringArray.SetValue("Cherry", 4);
+    // set valie
             stringArray.SetValue("WaterMelon", 4);
     
     // more code 
