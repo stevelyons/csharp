@@ -3,17 +3,18 @@ class SelectionSort
 {
     static void Main(string[] args)
     {
+        // set the array size
         int array_size = 10;
-        // array 
+        // array
         int[] array = new int[10] { 100, 50, 20, 40, 10, 60, 80, 70, 90, 30 };
+        // print the below array 
         Console.WriteLine("The Array Before Selection Sort is: ");
         for (int i = 0; i < array_size; i++)
         {
             Console.WriteLine(array[i]);
         }
         int tmp, min_key;
-        // forloop to go through atray
- 
+ // array to fond selection 
         for (int j = 0; j < array_size - 1; j++)
         {
             min_key = j;
@@ -34,11 +35,10 @@ class SelectionSort
         Console.WriteLine("The Array After Selection Sort is: ");
         for (int i = 0; i < 10; i++)
         {
-            // foir loop
             Console.WriteLine(array[i]);
         }
-        // print the array 
+        // print the sorted array
         Console.ReadLine();
     }
-    // end of the program
+    // end of program
 }
