@@ -12,6 +12,7 @@ class ForEach
     // for loop
     foreach(string name in list)
     {
+      // print the name
       Console.WriteLine(name);
     }
     Console.ReadLine();
