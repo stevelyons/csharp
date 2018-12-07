@@ -20,6 +20,7 @@ class BinaryTriangle
                     {
                      // print item
                         Console.Write("0");
+                     // set the int
                         lastInt = 0;
                     }
                     else if (lastInt == 0)
