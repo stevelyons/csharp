@@ -13,6 +13,7 @@ public class Addition
     int d = 2;
       // more variables
     int i = 67;
+      //variables
     int e = 9;
     // the last variable 
     int f = 1;
