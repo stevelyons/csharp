@@ -5,6 +5,7 @@ Class Division
     {
         // variables 
         int x = 3;
+        // variables
         int y = 8;
         int c = 10;
         int d = 3;
