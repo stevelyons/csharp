@@ -22,6 +22,7 @@ public class Subtraction
     Console.WriteLine(d-c);
     // multiple variable subtraction
     Console.WriteLine(a-b-c-d);
+      // subtract items
     Console.WriteLine(d-c-b-a);
       // this id subtraction 
     Console.WriteLine(a+c-b+d);
