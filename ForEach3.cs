@@ -9,6 +9,7 @@ namespace WindowsApplication1
         public Form1()
         {
             // intialize
+            // the component
             InitializeComponent();
         }
 p
