@@ -2,8 +2,8 @@ public class Switch
 {
    public static void Main()
    {
+      // set the condition with int i
     int i = 1;
-    // set condition
     switch (i)
     {
       case 1:
