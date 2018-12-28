@@ -6,6 +6,7 @@ class Sum
     // ints to hold the number and sum
     int num, sum = 0, r;
     Console.WriteLine("Enter a Number : ");
+    // read the int
     num = int.Parse(Console.ReadLine());
     // while loop
     while (num != 0)
