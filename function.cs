@@ -3,6 +3,7 @@ class Function
   // this is a sample function named Foo();
   void Foo()
   {
+    // print the statement
     Console.System.print("this is the function foo");
   }
   // bar function 
