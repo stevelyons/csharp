@@ -1,4 +1,4 @@
-
+// For Loop
 class ForLoop
 {
   int main()
@@ -15,7 +15,7 @@ class ForLoop
       Console.WriteLine("The is a decrement for loop.");
     }
     
-    // increment by the 2/     for(int i = 1; i < 10; i*2;
+    // increment by the loop for(int i = 1; i < 10; i*2;
     {
       // print 
        Console.WriteLine("This for loop increments by 2.");
