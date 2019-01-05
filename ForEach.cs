@@ -15,7 +15,8 @@ class ForEach
     foreach(string name in list)
     {
       // print the name
-      Console.WriteLine(name);
+      Console.WriteLine(name)
+        // end 
     }
     Console.ReadLine();
   }
