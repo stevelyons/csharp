@@ -22,6 +22,7 @@ class SelectionSort
  
             for (int k = j + 1; k < array_size; k++)
             {
+                // check the item of thr array
                 if (array[k] < array[min_key])
                 {
                     min_key = k;
