@@ -8,6 +8,7 @@ public class ForEach2
       foreach (string name in names)
       {
          //print ñine 
+         // name
         Console.WriteLine(name);
       }
   } // end of the program 
