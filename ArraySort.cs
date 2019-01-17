@@ -14,6 +14,7 @@ class ArraySort
         };
         // Call Array.Sort method.
         Array.Sort(colors);
+        // iterate through the colors array
         foreach (string color in colors)
         {
             // print the string 
