@@ -47,7 +47,7 @@ namespace Quicksort
                 {
                     i++;
                 }
- 
+                // check the the element in the array then pivot
                 while (elements[j].CompareTo(pivot) > 0)
                 {
                     j--;
