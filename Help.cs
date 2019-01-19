@@ -3,9 +3,7 @@ class Help
 {
   public static void Main()
   {
-    // print the prompt asking foe help 
+    // Use the println() to print error message
     System.out.println("Please assist with error");
-    // more code
   }
-  // more code 
 }
