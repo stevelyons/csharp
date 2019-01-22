@@ -8,6 +8,8 @@ public static void QuickSort (int[] data, int l, int r)
          j = r;
 
          x = data [(l + r) / 2]; /* find pivot item */
+      
+      // while unsorted begin the sort
          while (true) {
             while (data[i] < x)
                i++;
