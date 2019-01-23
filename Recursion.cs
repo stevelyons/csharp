@@ -28,6 +28,7 @@ class pro
         {
             //whenndone tetuen 0
             return 0;
+            //return if invalid
         }
     }// end of the program
 }
