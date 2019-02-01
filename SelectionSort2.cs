@@ -1,3 +1,4 @@
+// use selection sort to sort an array
 using System;
 class SelectionSort
 {
