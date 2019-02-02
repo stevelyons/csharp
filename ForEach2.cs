@@ -5,6 +5,7 @@ public class ForEach2
    {
       // variables new data strcut
       var names = new List<string>() { "John", "Tom", "Peter" };
+      // iterate through the names 
       foreach (string name in names)
       {
          
