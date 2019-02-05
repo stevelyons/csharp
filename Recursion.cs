@@ -21,7 +21,7 @@ class pro
     {
         if (num != 0)
         {
-            // iterate 
+            // iterate through shd gey rhe remainder
             return (num % 10 + sum(num / 10));
         }
         else
