@@ -1,3 +1,5 @@
+
+// how to make functions in c#
 class Function
 {
   // this is a sample function named Foo();
