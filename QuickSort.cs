@@ -15,7 +15,7 @@ namespace Quicksort
             // Print the unsorted array
             for (int i = 0; i < unsorted.Length; i++)
             {
-             // orint value
+             // print the sorted cslue 
                 Console.Write(unsorted[i] + " ");
             }
          // print 
