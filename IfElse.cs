@@ -11,7 +11,7 @@ public class IfElse
       // variables 
       int a = 5, b = 5, c = 10;
 
-      // if a is equal to b 
+      // if a is equal to b then print equal
       if (a == b)
         // print the a variable
         Console.WriteLine(a);
