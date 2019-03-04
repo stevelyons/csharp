@@ -16,6 +16,7 @@ Class Multiplication
         int z = -1
         int w = 6;
         int i = 8;
+        // integer a
         int a = 4;
         // variable transfer
         int b = x;
