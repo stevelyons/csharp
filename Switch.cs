@@ -13,6 +13,7 @@ public class Switch
         Console.WriteLine("Two");
           // print the second line
         Console.WriteLine("Two");
+          // break
         break;
       default:
         Console.WriteLine("Other");
