@@ -1,3 +1,4 @@
+// switch functions
 public class Switch
 {
    public static void Main()
