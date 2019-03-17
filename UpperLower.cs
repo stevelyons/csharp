@@ -8,6 +8,7 @@ class UpperLower
     stringArray.SetValue("Mango", 0);
     // set array
     stringArray.SetValue("Orange", 1);
+    // set the value
     stringArray.SetValue("Apple", 2);
             stringArray.SetValue("Grape", 3);
             stringArray.SetValue("Cherry", 4);
