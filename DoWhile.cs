@@ -9,7 +9,7 @@ public class DoWhile
       // execute the action at least once 
       do 
       {
-        // increment by two
+        // increment the variable x by 1 
         x++;
       }
       // while the x variable is less than 10 
@@ -19,7 +19,6 @@ public class DoWhile
         // action
         
         // more acrions 
-        
      }
-   }// end of the program 
-}
+   }
+}// end of the program 
