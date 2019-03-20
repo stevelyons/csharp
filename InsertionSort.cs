@@ -4,7 +4,7 @@ class InsertionSort
 {
     private static void Main(string[] args)
     {
-        // array
+        // insorted array
         int[] num = { 69, 56, 77, 44, 8, 0, 111, 566 };
         
         // setup the forloop based on the length of the array
@@ -12,7 +12,6 @@ class InsertionSort
         {
             // create new key from selected item in array
             int key = num[i];
-            // set thekey
             //decrement
             int j = i - 1;
             // while loop
