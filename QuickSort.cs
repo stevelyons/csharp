@@ -30,7 +30,7 @@ namespace Quicksort
             {
                 Console.Write(unsorted[i] + " ");
             }
- 
+ // print the insorted list 
             Console.WriteLine();
  
             Console.ReadLine();
