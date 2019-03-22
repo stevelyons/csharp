@@ -5,6 +5,7 @@ class UpperLower
   {
     // create an array
     Array stringArray = Array.CreateInstance(typeof(String), 6);
+    // set the value of the first array
     stringArray.SetValue("Mango", 0);
     // set array
     stringArray.SetValue("Orange", 1);
