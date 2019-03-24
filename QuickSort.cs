@@ -19,7 +19,7 @@ namespace Quicksort
                 Console.Write(unsorted[i] + " ");
             }
          // print 
- 
+ // outt the array 
             Console.WriteLine();
  
             // Sort the array
