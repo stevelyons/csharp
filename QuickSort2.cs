@@ -11,6 +11,7 @@ public static void QuickSort (int[] data, int l, int r)
       
       // while unsorted begin the sort
          while (true) {
+               // check if current elemnt is less thab thr int
             while (data[i] < x)
                i++;
 /             while (x < data[j])
