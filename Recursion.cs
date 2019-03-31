@@ -5,6 +5,7 @@ class program
 {
         // intialize variables 
     int num, result;
+        // createnew object
     pro pg = new pro();
     Console.WriteLine("Enter the Number : ");
     num=int.Parse(Console.ReadLine());
