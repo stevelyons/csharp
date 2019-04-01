@@ -28,6 +28,7 @@ namespace Quicksort
             // Print the sorted array
             for (int i = 0; i < unsorted.Length; i++)
             {
+             // print the unsorted
                 Console.Write(unsorted[i] + " ");
             }
  // print the insorted list 
