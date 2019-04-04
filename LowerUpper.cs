@@ -23,6 +23,8 @@ class LowerUpper
             Console.WriteLine("The Upper Bound of the Array : {0}",stringArray.GetUpperBound(0).ToString());
     // read line the line and get the data
             Console.ReadLine();
+    //
+    // bonus 
         }
     } // end of program
 }
