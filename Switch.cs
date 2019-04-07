@@ -16,6 +16,7 @@ public class Switch
         Console.WriteLine("Two");
           // break
         break;
+          // final before break
       default:
         Console.WriteLine("Other");
         break;
