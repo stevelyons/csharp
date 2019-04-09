@@ -13,7 +13,7 @@ class LowerUpper
     stringArray.SetValue("Apple", 2);
     // set the value
             stringArray.SetValue("Grape", 3);
-    // set value 
+    // set value thr value to cherry
             stringArray.SetValue("Cherry", 4);
     // ser value 
             stringArray.SetValue("WaterMelon", 4);
@@ -23,8 +23,6 @@ class LowerUpper
             Console.WriteLine("The Upper Bound of the Array : {0}",stringArray.GetUpperBound(0).ToString());
     // read line the line and get the data
             Console.ReadLine();
-    //
-    // bonus 
         }
     } // end of program
 }
