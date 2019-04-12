@@ -16,6 +16,7 @@ public class Array
       // add to the array
       array[2] = 3;
       array[3] = 4;
+      //array
       array[4] = 5;
       array[5] = 6;
       array[6] = 7; 
