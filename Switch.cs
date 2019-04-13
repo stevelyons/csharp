@@ -19,6 +19,7 @@ public class Switch
           // final before break
       default:
         Console.WriteLine("Other");
+          // break
         break;
       }
    }
