@@ -8,6 +8,7 @@ public class Switch
     switch (i)
     {
       case 1:
+          // first case
         Console.WriteLine("One");
         break;
       case 2:
