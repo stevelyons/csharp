@@ -10,6 +10,7 @@ public class Switch
       case 1:
           // first case
         Console.WriteLine("One");
+          // breqk
         break;
       case 2:
         Console.WriteLine("Two");
