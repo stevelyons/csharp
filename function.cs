@@ -55,12 +55,13 @@ class Function
   }
 
   // this is the main function 
+// main is always public
   
   public void main()
   {
     // variables 
     int x = 5, int y = 7;
-    // this is the funciton 
+    // this is the function 
     Foo();
     Bar();
     // function with parameters
