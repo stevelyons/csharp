@@ -22,6 +22,7 @@ public class WhileLoop
          // increment
          j++;
       }
+// last line 
    }
    // end of the program
 }
