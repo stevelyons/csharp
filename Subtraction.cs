@@ -11,7 +11,7 @@ public class Subtraction
     int b = 3;
       // integer
     int c = 4;
-      // integer
+      // integer set d to 7
     int d = 7;
 
     // print the results
