@@ -33,7 +33,7 @@ namespace Quicksort
             }
  // print the insorted list 
             Console.WriteLine();
- 
+ // reas the line 
             Console.ReadLine();
         }
  
