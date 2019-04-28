@@ -53,7 +53,7 @@ namespace Quicksort
                 {
                     j--;
                 }
- 
+ // compare if the current 
                 if (i <= j)
                 {
                     // Swap
