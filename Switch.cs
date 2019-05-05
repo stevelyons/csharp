@@ -13,6 +13,7 @@ public class Switch
           // breqk
         break;
       case 2:
+// write the name number 2
         Console.WriteLine("Two");
           // print the second line
         Console.WriteLine("Two");
