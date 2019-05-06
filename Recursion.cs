@@ -7,6 +7,7 @@ class program
     int num, result;
         // createnew object
     pro pg = new pro();
+// entre the number
     Console.WriteLine("Enter the Number : ");
     num=int.Parse(Console.ReadLine());
         // result 
