@@ -20,8 +20,7 @@ public class IfElse
         Console.WriteLine(b);
        // and comparison
       if ((a >= c) && (b <= c))
-        // more info
-        // print c
+        // is a is greater and b is smaller than c
         Console.WriteLine(c);
       // end of program
     }
