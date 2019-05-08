@@ -1,6 +1,7 @@
 Using System;
 public class SortArray
 {
+// the main prigram
    public static void Main()
    {
       // program to sort an integer array; intialize int array
