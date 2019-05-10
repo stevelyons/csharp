@@ -15,6 +15,7 @@ Class Multiplication
         // negative integer
         int z = -1
         int w = 6;
+// initialize I to 8
         int i = 8;
         // integer a
         int a = 4;
@@ -43,6 +44,5 @@ Class Multiplication
         // mutiple vars 
         Console.WriteLine(i*b*p);
         // end of the program 
-        // 'merica
         }
 }
