@@ -7,6 +7,7 @@ namespace Quicksort
 {
     class Program
     {
+        // main function
         static void Main(string[] args)
         {
             // Create an unsorted array of string elements
