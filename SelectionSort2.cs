@@ -20,7 +20,7 @@ class SelectionSort
         {
 // set the new key
             min_key = j;
- 
+ // for loop to iterate
             for (int k = j + 1; k < array_size; k++)
             {
                 // if correct 
