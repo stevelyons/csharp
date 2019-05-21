@@ -3,6 +3,7 @@ using System.Windows.Forms;
 
 namespace WindowsApplication1
 {
+    // create a form
     public partial class Form1 : Form
     {
         // create form 
