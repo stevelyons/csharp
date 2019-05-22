@@ -11,6 +11,7 @@ Class Division
         int c = 10;
         int d = 3;
         int e = 18;
+        // another int
         int w = 7;
         // more variables
         int i = 56;
