@@ -11,6 +11,7 @@ class SelectionSort
         Console.WriteLine("The Array Before Selection Sort is: ");
         for (int i = 0; i < array_size; i++)
         {
+            // print the array
             Console.WriteLine(array[i]);
         }
         int tmp, min_key;
