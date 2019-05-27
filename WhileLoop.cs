@@ -15,6 +15,7 @@ public class WhileLoop
       // this is a comment 
       // count int 
       int j = 0;
+// for the loop
       // while loop
       while(j < 5)
       {
