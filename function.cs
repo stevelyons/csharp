@@ -66,6 +66,7 @@ class Function
     Bar();
     // function with parameters
     Addition(x,y);
+    // call the Subtract function
     Subtract(x,y);
     Divide(x,y);
     Multiply(x,y);
