@@ -32,6 +32,7 @@ class SelectionSort
  
             tmp = array[min_key];
             array[min_key] = array[j];
+// set new temp
             array[j] = tmp;
         }
  
