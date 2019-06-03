@@ -21,7 +21,7 @@ public class WhileLoop
       {
          // print the current count
          System.Console.WriteLine("The current count is lower than 5.");
-         // increment
+         // increment the current j
          j++;
       }
 // last line 
