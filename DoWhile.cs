@@ -11,6 +11,7 @@ public class DoWhile
       {
         // increment the variable x by 1 
         x++;
+// new number
       }
       // while the x variable is less than 10 
       // get it 
