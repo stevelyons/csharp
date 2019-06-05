@@ -12,7 +12,7 @@ class ForLoop
     // decrement by one 
     for(int i = 10; i > 0; i--)
     {
-      // prontrhr number
+      // print the numbers 1-10
       Console.WriteLine("The is a decrement for loop.");
     }
     
