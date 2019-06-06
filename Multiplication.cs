@@ -21,6 +21,7 @@ Class Multiplication
         int a = 4;
         // variable transfer
         int b = x;
+// set the int
         int p = 5;
         int s = 11;
         // into
