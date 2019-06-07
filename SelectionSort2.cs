@@ -9,6 +9,7 @@ class SelectionSort
         // create new array from array size
         int[] array = new int[10] { 100, 50, 20, 40, 10, 60, 80, 70, 90, 30 };
         Console.WriteLine("The Array Before Selection Sort is: ");
+// print the line
         for (int i = 0; i < array_size; i++)
         {
             // print the array
