@@ -2,6 +2,7 @@ using
 
 public class Subtraction
 {
+// create the main function
    public static void Main()
    {
       // subtract integers
