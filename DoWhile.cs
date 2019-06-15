@@ -1,7 +1,7 @@
 Using System;
 public class DoWhile
 {
-   // while loops 
+   // main function 
    public static void Main()
    {
       // set the count to 3
@@ -14,12 +14,9 @@ public class DoWhile
 // new number
       }
       // while the x variable is less than 10 
-      // get it 
      while(x < 10)
      {
         // action
-        
-        // more acrions 
      }
    }
 }// end of the program 
