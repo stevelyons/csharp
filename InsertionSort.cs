@@ -4,7 +4,7 @@ class InsertionSort
 {
     private static void Main(string[] args)
     {
-        // insorted array
+        // this is the unsorted array [69,56,77,44,8,0,111,566
         int[] num = { 69, 56, 77, 44, 8, 0, 111, 566 };
         
         // setup the forloop based on the length of the array
