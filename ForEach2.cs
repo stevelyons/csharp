@@ -1,6 +1,7 @@
 Using System;
 public class ForEach2
 {
+   // main function
    public static void Main()
    {
       // variables new data strcut
@@ -11,6 +12,5 @@ public class ForEach2
        // print the string in the array list 
         Console.WriteLine(name);
       }
-  } // end of the program 
-   //mote info 
+  } // end of the program
 }
