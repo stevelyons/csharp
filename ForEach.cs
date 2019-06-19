@@ -1,6 +1,7 @@
 // program to iterate through names
 class ForEach
 {
+  // main function
   static void Main(string[] args)
   {            
     // create instance of array list
