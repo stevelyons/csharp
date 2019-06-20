@@ -5,6 +5,7 @@ using System.Text;
  
 class BinaryTriangle
     {
+ // main function
         public static void Main(String[] args)
         {
          // variables
