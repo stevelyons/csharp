@@ -1,6 +1,6 @@
 using System;
 using System.Windows.Forms;
-
+// inport
 namespace WindowsApplication1
 {
     // create a form
