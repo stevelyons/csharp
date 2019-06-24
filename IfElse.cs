@@ -1,5 +1,4 @@
 Using System;
-
 /*
   Program to test if else statements
 */
@@ -8,7 +7,7 @@ public class IfElse
     static void Main(string[] args)
     {
       // program to demo the if else statement
-      // variables 
+      // intialize variables a, b, and c
       int a = 5, b = 5, c = 10;
 
       // if a is equal to b then print equal
