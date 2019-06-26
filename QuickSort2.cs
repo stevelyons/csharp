@@ -1,8 +1,12 @@
-public static void QuickSort (int[] data, int l, int r)
+// program to implement Quicksort in C#
+Using System;
+class QuickSort
+{
+      public static void QuickSort (int[] data, int l, int r)
       {
-            // int variables 
+         // int variables 
          int i, j;
-// int
+          // int
          int x;
  
          i = l;
@@ -37,3 +41,4 @@ public static void QuickSort (int[] data, int l, int r)
       {
          IntArrayQuickSort (data, 0, data.Length - 1);
       }
+}
