@@ -35,6 +35,7 @@ class InsertionSort
         }
         // display the key
         Console.ReadKey();
+// print the result 
 
     } // end of the program
 }
