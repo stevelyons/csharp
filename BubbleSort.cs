@@ -16,6 +16,7 @@ public class BubbleSort
          
       // for loop to bubble value
          for (j=N-1; j>0; j--) {
+               // iterate through the next level
             for (i=0; i<j; i++) {
                if (data [i] > data [i + 1])
                      // if current is greater than adjaceby swap
