@@ -2,6 +2,7 @@
 Using System;
 class InsertionSort
 {
+// main function
     private static void Main(string[] args)
     {
         // this is the unsorted array [69,56,77,44,8,0,111,566
