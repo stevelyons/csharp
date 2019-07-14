@@ -1,3 +1,4 @@
+// Printing statements C#
 Using System;
 public class Print
 {
@@ -14,8 +15,6 @@ public class Print
       System.Console.WriteLine("This is the fourth statement.");
       // this is a comment 
       System.Console.WriteLine("This is the fifth statement.");
-       // this is a comment 
-// printing 
       System.Console.WriteLine("This is the sixth statement.");
        // this is a comment 
       System.Console.WriteLine("This is the seventh statement.");
