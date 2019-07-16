@@ -4,9 +4,9 @@ Class Division
 {
     public static void Main()
     {
-        // variables 
+        // initialize x to 3 
         int x = 3;
-        // variables
+         // initialize y to 8
         int y = 8;
         int c = 10;
         int d = 3;
