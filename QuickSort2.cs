@@ -10,6 +10,7 @@ class QuickSort
          int x;
  
          i = l;
+// set j value to r
          j = r;
 
          x = data [(l + r) / 2]; /* find pivot item */
