@@ -1,6 +1,7 @@
 Using System;
 class ArrayLength
 {
+// main 
     static void Main()
     {
         // intitialize array
