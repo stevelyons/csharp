@@ -1,4 +1,4 @@
-// For Loop
+// example of for loop in C#
 class ForLoop
 {
   int main()
