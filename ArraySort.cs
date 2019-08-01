@@ -1,3 +1,4 @@
+//sort the array
 using System;
 class ArraySort
 {
