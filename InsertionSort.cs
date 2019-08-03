@@ -25,6 +25,7 @@ class InsertionSort
             }
             // set the new key
             num[j + 1] = key;
+// end 
         }
 
         //display
