@@ -16,6 +16,7 @@ public class SortArray
          // print this output for the array
          // output: 2 3 6 8 10
          Console.Write(i + " "); 
+// end
       }
       // end of the program
   }
