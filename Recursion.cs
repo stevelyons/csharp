@@ -1,5 +1,6 @@
+// C# example of recursion
 using System;
-class program
+class Recursion
 {
     public static void Main()
 {
