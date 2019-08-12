@@ -1,5 +1,6 @@
-import
+// using switch in c#
 // switch functions
+Using System;
 public class Switch
 {
    public static void Main()
