@@ -1,3 +1,4 @@
+// C# summation of while loop integers
 Using System;
 class Sum
 {
