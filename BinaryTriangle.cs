@@ -17,6 +17,7 @@ class BinaryTriangle
             input = int.Parse(Console.ReadLine());
             for (int i = 1; i <= input; i++)
             {
+// for loop to iterate
                 for (p = 1; p <= i; p++)
                 {
                     if (lastInt == 1)
