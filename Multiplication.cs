@@ -24,6 +24,7 @@ Class Multiplication
         int b = x;
 // set the int
         int p = 5;
+// initialize s variable
         int s = 11;
         // into
         int t = 68;
