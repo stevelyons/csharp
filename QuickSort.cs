@@ -38,7 +38,7 @@ namespace Quicksort
  // reas the line 
             Console.ReadLine();
         }
- 
+ // main function 
         public static void Quicksort(IComparable[] elements, int left, int right)
         {
             int i = left, j = right;
