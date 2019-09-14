@@ -8,7 +8,7 @@ class QuickSort
          int i, j;
           // int
          int x;
- 
+ // initialize int i 
          i = l;
 // set j value to r
          j = r;
