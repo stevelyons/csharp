@@ -14,6 +14,7 @@ String.Format("{0:M MM MMM MMMM}", dt);  // "3 03 Mar March"  month
     thus is dstr 
 String.Format("{0:d dd ddd dddd}", dt);  // "9 09 Sun Sunday" day
 String.Format("{0:h hh H HH}",     dt);  // "4 04 16 16"      hour 12/24
+    // format the minute 
 String.Format("{0:m mm}",          dt);  // "5 05"            minute
 String.Format("{0:s ss}",          dt);  // "7 07"            second
 String.Format("{0:f ff fff ffff}", dt);  // "1 12 123 1230"   sec.fraction
