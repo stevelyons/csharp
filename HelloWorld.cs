@@ -5,7 +5,7 @@ public class HelloWord
    // main function
    public static void Main()
    {
-      // print Hello World
+      // print the statement "Hello, World!"
       System.Console.WriteLine("Hello, World!");
       // print My name is Bob
       System.Console.WriteLine("My name is Bob.");
