@@ -28,6 +28,7 @@ class pro
             // iterate through shd gey rhe remainder
             return (num % 10 + sum(num / 10));
         }
+// is number does equal zero 
         else
         {
             //whenndone tetuen 0
