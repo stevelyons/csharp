@@ -6,7 +6,7 @@ class Recursion
 {
         // intialize variables 
     int num, result;
-        // createnew object
+        // create new pro object 
     pro pg = new pro();
 // entre the number
     Console.WriteLine("Enter the Number : ");
