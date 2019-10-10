@@ -43,6 +43,7 @@ namespace Quicksort
         {
 // initialed rhe set 
             int i = left, j = right;
+// set the pivot 
             IComparable pivot = elements[(left + right) / 2];
  
             while (i <= j)
