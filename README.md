@@ -1,7 +1,7 @@
 # csharp
 Learning C#
-Collection of c# projects
+Collection of C# projects 
 
-More projects 
-
-List of projects 
+1. Hello World 
+2. For loop
+3. Variables
