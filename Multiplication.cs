@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+// declare the multiplication 
 Class Multiplication
 {
     // multiplication 
