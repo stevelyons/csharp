@@ -2,7 +2,7 @@
 Using System;
 public class SortArray
 {
-// the main prigram
+// the main program to sort array
    public static void Main()
    {
       // program to sort an integer array; intialize int array
