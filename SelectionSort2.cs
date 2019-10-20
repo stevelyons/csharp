@@ -33,7 +33,7 @@ class SelectionSort
                     min_key = k;
                 }
             }
- 
+ // set the temp variable to small value
             tmp = array[min_key];
 // set the libk
             array[min_key] = array[j];
