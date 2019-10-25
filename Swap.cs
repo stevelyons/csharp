@@ -3,7 +3,7 @@ public class Swap
 {
    public static void Main()
    {
-    // the initial variables
+    // initialize variable a 
     int a = 5;
     // the second variable 
     int b = 3;
@@ -13,7 +13,6 @@ public class Swap
     Console.WriteLine(a);
       // print the original value for b
     Console.WriteLine(b);
-      // swap the variables
       // set the intial variable to swap
     swap = a;
       // set the value of a to the current value of b 
