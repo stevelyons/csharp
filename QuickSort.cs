@@ -4,9 +4,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
  
-// quicksort
+// quicksort namespace
 namespace Quicksort
 {
+   // class name
     class Program
     {
         // main function
