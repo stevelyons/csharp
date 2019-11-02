@@ -1,4 +1,4 @@
-//sort the array
+// C# Array sort
 using System;
 class ArraySort
 {
