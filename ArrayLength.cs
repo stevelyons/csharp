@@ -8,6 +8,7 @@ class ArrayLength
         int[] arrayA = new int[5];
         // ger tgr lenfth 
         int lengthA = arrayA.Length;
+        // print the array and the length
         Console.WriteLine("Length of ArrayA : {0}", +lengthA); 
         
         // set the array length 
