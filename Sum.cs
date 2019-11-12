@@ -7,12 +7,12 @@ class Sum
     // ints to hold the number and sum
     int num, sum = 0, r;
     Console.WriteLine("Enter a Number : ");
-    // read the int
+    // read the int from the user
     num = int.Parse(Console.ReadLine());
     // while loop
     while (num != 0)
     {
-      // set r to the remainder
+      // set r to the remainder of the number 
       r = num % 10;
       // set the new num
       num = num / 10;
