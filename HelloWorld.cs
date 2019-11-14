@@ -1,5 +1,6 @@
 // first program in C#
 Using System;
+// class
 public class HelloWord
 {
    // main function
