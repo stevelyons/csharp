@@ -2,7 +2,7 @@
 Using System;
 public class Switch
 {
-   // main function
+   // main function of the switch function 
    public static void Main()
    {
       // set the condition with int i
