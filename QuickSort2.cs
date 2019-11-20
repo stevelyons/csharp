@@ -12,7 +12,8 @@ class QuickSort
          i = l;
 // set j value to r
          j = r;
-://  ser
+            // int k = 0;
+//  ser
          x = data [(l + r) / 2]; /* find pivot item */
       
       // while unsorted begin the sort
