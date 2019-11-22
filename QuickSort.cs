@@ -24,7 +24,7 @@ namespace Quicksort
             }
          // print out the array 
             Console.WriteLine();
- 
+ // commentary 
             // Sort the array
             Quicksort(unsorted, 0, unsorted.Length - 1);
  
@@ -61,7 +61,7 @@ namespace Quicksort
  // compare if the current 
                 if (i <= j)
                 {
-                    // Swap
+                    // Swa
                     IComparable tmp = elements[i];
                     elements[i] = elements[j];
                     elements[j] = tmp;
