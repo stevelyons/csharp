@@ -4,7 +4,7 @@ class ArrayLength
 // main 
     static void Main()
     {
-        // intitialize array
+        // intitialize the int array with five slots
         int[] arrayA = new int[5];
         // ger tgr lenfth 
         int lengthA = arrayA.Length;
