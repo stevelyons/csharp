@@ -18,7 +18,7 @@ class InsertionSort
             // while loop
             while (j >= 0 && num[j] > key)
             {
-                //loop
+                // while in the loop update the key 
                 num[j + 1] = num[j];
                 // iterate
                 j--;
