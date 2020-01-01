@@ -13,6 +13,7 @@ public class Addition
      // initialize the int d
     int d = 2;
     int i = 67;
+      // intialize variable 
     int e = 9; 
     int f = 1;
     // print the statements
