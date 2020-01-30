@@ -2,7 +2,7 @@
 Using System;
 // bubble sort
 public class BubbleSort
-{
+{     // main function
       public static void main()
       {
             BubbleSort()
