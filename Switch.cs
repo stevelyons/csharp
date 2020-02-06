@@ -12,6 +12,7 @@ public class Switch
     {
       // first case
       case 1:
+          // print the statement "One"
         Console.WriteLine("One");
           // break
         break;
