@@ -47,6 +47,8 @@ namespace Quicksort
 // set the pivot 
             IComparable pivot = elements[(left + right) / 2];
  
+         
+            // while the elements are in
             while (i <= j)
             {
                 while (elements[i].CompareTo(pivot) < 0)
