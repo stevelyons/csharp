@@ -12,6 +12,7 @@ public class ForEach2
       {
        // print the name from the array list 
         Console.WriteLine(name);
+         // end
       }
   } // end of the program
 }
