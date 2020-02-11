@@ -2,6 +2,7 @@
 using System;
 class Recursion
 {
+    // main function
     public static void Main()
 {
         // intialize variables 
