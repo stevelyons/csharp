@@ -24,7 +24,7 @@ public class Switch
         break;
           // the last choice of the others don’t work 
       default:
-          // pront 
+          // print line "other"
         Console.WriteLine("Other");
         break;
       }
