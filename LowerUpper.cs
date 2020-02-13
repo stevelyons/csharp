@@ -6,7 +6,7 @@ class LowerUpper
   {
     // create an array
     Array stringArray = Array.CreateInstance(typeof(String), 6);
-    // insert
+    // insert "Mango" into the first array
     stringArray.SetValue("Mango", 0);
     /// insert
     stringArray.SetValue("Orange", 1);
