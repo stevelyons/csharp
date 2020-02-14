@@ -6,7 +6,7 @@ class ArrayLength
     {
         // intitialize the int array with five slots
         int[] arrayA = new int[5];
-        // ger tgr lenfth 
+        // get the length of the stay 
         int lengthA = arrayA.Length;
         // print the array and the length
         Console.WriteLine("Length of ArrayA : {0}", +lengthA); 
