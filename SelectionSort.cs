@@ -1,4 +1,4 @@
-// C# showing Selection Sort
+// C# example of Selection Sort
 using System;
 class SelectionSort
 {
@@ -32,7 +32,7 @@ class SelectionSort
                     min_key = k;
                 }
             }
- 
+            // set the temporary value
             tmp = array[min_key];
             array[min_key] = array[j];
 // set new temp
