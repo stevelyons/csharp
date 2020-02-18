@@ -13,6 +13,7 @@ class InsertionSort
         {
             // create new key from selected item in array
             int key = num[i];
+// initialization 
             //initialize the j variable and set to the array list minus 1
             int j = i - 1;
             // while loop
