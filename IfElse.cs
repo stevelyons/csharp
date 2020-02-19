@@ -1,10 +1,11 @@
-// c# test ifelse
+// example program of if else statements in c#
 Using System;
 /*
   Program to test if else statements
 */
 public class IfElse
   {
+    // main function
     static void Main(string[] args)
     {
       // program to demo the if else statement
