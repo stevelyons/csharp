@@ -1,4 +1,4 @@
-// quick sort in C#
+// example of a simple sort method in C#
 Using System;
 public class Sort
 {
