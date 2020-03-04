@@ -1,4 +1,4 @@
-// basic program to swap two int variables 
+// c# example of swapping two int variables 
 public class Swap
 {
    public static void Main()
@@ -24,4 +24,4 @@ public class Swap
       // print variable b 
     Console.WriteLine(b);
   }
-}      // end of program 
+} // end of program 
