@@ -1,4 +1,4 @@
-// first program in C#
+// C# program for Hello world! 
 Using System;
 // class
 public class HelloWord
