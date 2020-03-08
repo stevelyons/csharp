@@ -1,10 +1,11 @@
 class AprilFool
 // class to tell joke
-/ / void static main()
-{
-  // knock knock 
-  // who's there
-  // april 
-  // april who?
-
+  public static void main()
+  {
+    // knock knock 
+    // who's there
+    // april 
+    // april who?
+    int i = 0;
+  }
 }
