@@ -4,7 +4,8 @@ class Sum
 {
   static void Main(string[] args)
   {
-    // ints to hold the number and sum
+    // variables 
+// int sum
     int num, sum = 0, r;
     Console.WriteLine("Enter a Number : ");
     // read the int from the user
