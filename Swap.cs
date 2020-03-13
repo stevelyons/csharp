@@ -19,9 +19,9 @@ public class Swap
     a = b;
     // end the swap
     b = swap;
-    // print the new variables
+    // print the new a variable
     Console.WriteLine(a);
-      // print variable b 
+      // print the new b variable 
     Console.WriteLine(b);
   }
 } // end of program 
