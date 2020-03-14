@@ -27,7 +27,9 @@ class QuickSort
             if (i <= j) {
                   //swap
                exchange (data, i, j);
+                  // increment i 
                i++;
+                  // decrement j
                j--;
             }
             if (i > j)
