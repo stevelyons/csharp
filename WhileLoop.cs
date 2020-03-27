@@ -12,7 +12,7 @@ public class WhileLoop
       { 
          // write the current count
          System.Console.WriteLine("The current count is greater than 0.");
-         // decrement the counter
+         // decrement the counter by one 
          i--;
       }
       // Set the j to 0
