@@ -2,7 +2,7 @@
 using System;
 class TestApp
 {
-   // this is the main function 
+   // manicore
    public static void Main(string[] args)
    {
 //new statement 
