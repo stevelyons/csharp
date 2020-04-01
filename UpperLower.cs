@@ -8,7 +8,7 @@ class UpperLower
     Array stringArray = Array.CreateInstance(typeof(String), 6);
     // set the value of the first array
     stringArray.SetValue("Mango", 0);
-    // set array
+    // set array of the second item 
     stringArray.SetValue("Orange", 1);
     // set the value
     stringArray.SetValue("Apple", 2);
