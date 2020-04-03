@@ -21,6 +21,7 @@ class BinaryTriangle
                 // for loop to iterate
                 for (p = 1; p <= i; p++)
                 {
+// if you at the end 
                     if (lastInt == 1)
                     {
                      // print item
