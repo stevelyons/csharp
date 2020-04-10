@@ -4,8 +4,8 @@ Using System;
 public class BubbleSort
 {     // main function
       public static void main()
-      {
-            BubbleSort()
+      {     // call the bubble sort method 
+            BubbleSort();
       }
       public static void BubbleSort (int[] data)
       {
