@@ -6,7 +6,7 @@ class UpperLower
   {
     // create an array
     Array stringArray = Array.CreateInstance(typeof(String), 6);
-    // set the value of the first array
+    // set the value of the first array to "Mango"
     stringArray.SetValue("Mango", 0);
     // set array of the second item 
     stringArray.SetValue("Orange", 1);
@@ -25,4 +25,4 @@ class UpperLower
     // read the last line of the arraylist
             Console.ReadLine();
         }
-    } // end of program 
+ } // end of program 
