@@ -9,7 +9,7 @@ class Recursion
     int num, result;
         // create new pro object 
     pro pg = new pro();
-// entre the number
+    // enter the int
     Console.WriteLine("Enter the Number : ");
     num=int.Parse(Console.ReadLine());
         // result 
