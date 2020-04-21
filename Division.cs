@@ -10,8 +10,9 @@ Class Division
         int y = 8;
         // initalize c to 10
         int c = 10;
-// initialize the variable d
+        // initialize the variable d
         int d = 3;
+          // initalize 3 to 18
         int e = 18;
         // another int
         int w = 7;
