@@ -10,6 +10,7 @@ class SelectionSort
         int[] array = new int[10] { 100, 50, 20, 40, 10, 60, 80, 70, 90, 30 };
         // print the below array 
         Console.WriteLine("The Array Before Selection Sort is: ");
+        // for loop to iterate through the array
         for (int i = 0; i < array_size; i++)
         {
             // print the array
@@ -35,7 +36,7 @@ class SelectionSort
             // set the temporary value
             tmp = array[min_key];
             array[min_key] = array[j];
-// set new temp
+            // set new temp
             array[j] = tmp;
         }
  
