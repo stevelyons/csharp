@@ -17,6 +17,7 @@ public class Subtraction
 
     // print the results of 3-5 = -2
     Console.WriteLine(a-b);
+//print 
     // print the results of 3-5 = -2
     Console.writeline(b-a);
 
