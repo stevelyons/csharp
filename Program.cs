@@ -10,7 +10,7 @@ class TestApp
     Console.WriteLine("this is the test program");
    // print the comment "This is the test program
 
-// peont
+// print the statement "this is the test program"
    Console.WriteLine("this is the test program");
   }
 } // end of the program
