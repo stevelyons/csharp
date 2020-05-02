@@ -2,6 +2,7 @@
 Using System;
 class LowerUpper
 {
+  // main method
   static void Main(string[] args)
   {
     // create a new Array object and set the size to 6 
