@@ -1,5 +1,6 @@
 // example of writing your first program in C# 
 using System;
+// class
 class TestApp
 {
    // main function 
