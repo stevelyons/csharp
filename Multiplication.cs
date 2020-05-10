@@ -32,6 +32,7 @@ Class Multiplication
         int t = 68;
 // set the variable
         int f =  2;
+// set the int 
         int g = s;
         
         //multiple the variables 
