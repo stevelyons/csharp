@@ -21,7 +21,7 @@ class ForLoop
     
     // increment by the loop for(int i = 1; i < 10; i*2;
     {
-      // print 
+      // print the current number 
        Console.WriteLine("This for loop increments by 2.");
     }
     // print the line up to 5
