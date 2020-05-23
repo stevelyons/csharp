@@ -9,7 +9,7 @@ class Sum
     Console.WriteLine("Enter a Number : ");
     // read the int from the user
     num = int.Parse(Console.ReadLine());
-    // while loop
+    // while loop to iterate through the numbers
     while (num != 0)
     {
       // set r to the remainder of the number 
