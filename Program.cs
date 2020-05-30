@@ -3,10 +3,10 @@ using System;
 // class
 class TestApp
 {
-   // main function 
+   // main function of the test app
    public static void Main(string[] args)
    {
-//new statement 
+
     // print statement to the console
     Console.WriteLine("this is the test program");
    // print the comment "This is the test program
