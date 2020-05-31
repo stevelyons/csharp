@@ -32,6 +32,7 @@ class QuickSort
                   // decrement j
                j--;
             }
+// if statement to check is to break 
             if (i > j)
                break;
          }
