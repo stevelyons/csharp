@@ -23,7 +23,7 @@ class LowerUpper
 // the lower 
 // print 
             Console.WriteLine("The Lower Bound of the Array : {0}",stringArray.GetLowerBound(0).ToString());
-    // upper bounds
+    // the upper bounds of the array
             Console.WriteLine("The Upper Bound of the Array : {0}",stringArray.GetUpperBound(0).ToString());
     // read line the line and get the data
             Console.ReadLine();
