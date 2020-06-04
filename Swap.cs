@@ -1,7 +1,7 @@
 // c# example of swapping two int variables 
 public class Swap
 {
-// main function 
+   // main function of the program
    public static void Main()
    {
     // initialize variable a 
