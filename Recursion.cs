@@ -12,7 +12,7 @@ class Recursion
     // enter the int
     Console.WriteLine("Enter the Number : ");
     num=int.Parse(Console.ReadLine());
-        // result 
+        // Get the result 
     result =pg.sum(num);
         // print
     Console.WriteLine("Sum of Digits in {0} is {1}", num, // read line
