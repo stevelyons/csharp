@@ -7,7 +7,7 @@ using System.Text;
 // declare the multiplication 
 Class Multiplication
 {
-    // multiplication 
+    // main function 
     public static void Main()
     {
         // set the int to 3
