@@ -23,7 +23,7 @@ Class Division
         int o = 32;
         //initialize the variable
         int k = 89;
-        // integer
+        // set the int f to the value of e (f = 18)
         int f = e;
         // negative integer
         int negativeNum = -12;
