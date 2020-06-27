@@ -24,8 +24,8 @@ namespace Quicksort
             }
          // print out the array 
             Console.WriteLine();
- // commentary 
-            // Sort the array
+
+            // Sort the array using quicksort
             Quicksort(unsorted, 0, unsorted.Length - 1);
  
             // Print the sorted array
@@ -50,7 +50,7 @@ namespace Quicksort
          
             // while the elements are in
             while (i <= j)
-            {
+            {   // while loop to compare two elements in the array
                 while (elements[i].CompareTo(pivot) < 0)
                 {
                     i++;
