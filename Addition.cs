@@ -18,7 +18,7 @@ public class Addition
     int e = 9; 
       // intialize 
     int f = 1;
-    // print the statements
+    // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the result of 7 + 2
     Console.WriteLine(c+d);
