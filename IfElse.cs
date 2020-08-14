@@ -18,7 +18,7 @@ public class IfElse
       if ((a > c) || (a == b))
         // print the b integer
         Console.WriteLine(b);
-      
+      // if statement 
       if ((a >= c) && (b <= c))
         // is a is greater and b is smaller than c
         Console.WriteLine(c);
