@@ -2,7 +2,7 @@
 Using System;
 public class DoWhile
 {
-   // main function 
+   // main function of the program
    public static void Main()
    {
     // set the count to 3
