@@ -5,9 +5,8 @@ public class Subtraction
 // create the main function
    public static void Main()
    {
-      // subtract integers
-      // four variables to hold int 
-    int a = 5;
+      // initialize the int a to 5
+      int a = 5;
 // set int b
     int b = 3;
       // integer
