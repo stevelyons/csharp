@@ -18,7 +18,7 @@ class ForEach
     list.Add("Another person");
      // add the name "Last Person" to the ArrayList
     list.Add("Last Person");
-    // for loop
+    // foreach loop to iterate through list
     foreach(string name in list)
     {
       // print the name
