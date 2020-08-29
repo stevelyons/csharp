@@ -26,7 +26,7 @@ class InsertionSort
             num[j + 1] = key;
             // end 
         }
-        //display
+        //display the number from the list 
         foreach (var item in num)
         {
             // print the current item
