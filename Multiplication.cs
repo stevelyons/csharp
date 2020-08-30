@@ -16,7 +16,7 @@ Class Multiplication
         int y = 8;
         // negative integer
         int z = -1
-// set the int 
+        // set the int w to 6
         int w = 6;
 // initialize I to 8
         int i = 8;
