@@ -32,6 +32,7 @@ class BinaryTriangle
                  // find the last int
                     else if (lastInt == 0)
                     {
+ // print
                         Console.Write("1");
                         lastInt = 1;
                     }
