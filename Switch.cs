@@ -16,11 +16,11 @@ public class Switch
         Console.WriteLine("One");
           // break
         break;
-// second case
+      // second case
       case 2:
           // print "Two"
         Console.WriteLine("Two");
-          // print the second line
+          // print the statement Two
         Console.WriteLine("Two");
           // break
         break;
