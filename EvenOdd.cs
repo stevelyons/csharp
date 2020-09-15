@@ -15,6 +15,7 @@ namespace check1
         {
 // initialize int i
             int i;
+// read the number 
             Console.Write("Enter a Number : ");
             i = int.Parse(Console.ReadLine());
             if (i % 2 == 0)
