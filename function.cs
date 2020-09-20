@@ -39,6 +39,7 @@ class Function
   // print the result of x multiplied by y 
   void Multiply(int x, int y)
   {
+// print the results x and y 
     Console.System.print(x*y)
   }
   
