@@ -18,11 +18,11 @@ Class Multiplication
         int z = -1
         // set the int w to 6
         int w = 6;
-// initialize I to 8
+        // initialize I to 8
         int i = 8;
         // initialize the int a
         int a = 4;
-        // variable transfer
+        // Initialize the b variable to x 
         int b = x;
 // set the int
         int p = 5;
