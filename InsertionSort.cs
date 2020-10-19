@@ -15,7 +15,7 @@ class InsertionSort
             //initialize the j variable and set to the array list minus 1
             int j = i - 1;
 // implement 
-            // while loop
+            // while loop to iterate through the loop
             while (j >= 0 && num[j] > key)
             {
                 // while in the loop update the key 
