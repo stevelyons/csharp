@@ -22,7 +22,7 @@ class QuickSort
                // check if current elemnt is less thab thr int
             while (data[i] < x)
                i++;
-               // while loop
+               // while loop to iterate through the array
 /             while (x < data[j])
                j--;
             if (i <= j) {
