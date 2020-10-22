@@ -7,11 +7,11 @@ class LowerUpper
   {
     // create a new Array object and set the size to 6 
     Array stringArray = Array.CreateInstance(typeof(String), 6);
-    // insert "Mango" into the first array
+    // insert the string "Mango" into the first index of array
     stringArray.SetValue("Mango", 0);
-    /// insert
+    // insert the string "Orange" into the second index of array
     stringArray.SetValue("Orange", 1);
-    // insert into the array 
+     // insert the string "Apple" into the third index of array
     stringArray.SetValue("Apple", 2);
     // set the value to grape
             stringArray.SetValue("Grape", 3);
