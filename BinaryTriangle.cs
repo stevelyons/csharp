@@ -18,6 +18,7 @@ class BinaryTriangle
             // for loop to iterate through loop
             for (int i = 1; i <= input; i++)
             {
+// set the cord 
                 // for loop to iterate
                 for (p = 1; p <= i; p++)
                 {
