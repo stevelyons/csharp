@@ -19,7 +19,7 @@ namespace Quicksort
             // Print the unsorted array
             for (int i = 0; i < unsorted.Length; i++)
             {
-            // print the sorted cslue 
+            // print the unsorted array
                 Console.Write(unsorted[i] + " ");
             }
             // print out the array 
