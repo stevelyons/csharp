@@ -46,6 +46,7 @@ class Function
   // return type 
   int Add(int x, int y)
   {
+// set the sum of the two ints 
     int sum = x + y;
     return sum;
   }
