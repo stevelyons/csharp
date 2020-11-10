@@ -12,11 +12,13 @@ class UpperLower
     stringArray.SetValue("Orange", 1);
     // set the value
     stringArray.SetValue("Apple", 2);
-            stringArray.SetValue("Grape", 3);
+    // set the value of the 
+    stringArray.SetValue("Grape", 3);
     // set the value of the String Array
-            stringArray.SetValue("Cherry", 4);
+    stringArray.SetValue("Cherry", 4);
     // set value of the array 
-            stringArray.SetValue("WaterMelon", 4);
+    stringArray.SetValue("Black Berry", 5);
+    
   // print the lower bound of the array 
             Console.WriteLine("The Lower Bound of the Array : {0}",stringArray.GetLowerBound(0).ToString());
     // upper bound when it hits limit
