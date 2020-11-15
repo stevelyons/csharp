@@ -8,9 +8,7 @@ public class HelloWord
    {
       // print the statement "Hello, World!"
       System.Console.WriteLine("Hello, World!");
-      // print My name is Bob
-// statement 
+      // print the second statement"My name is Bob
       System.Console.WriteLine("My name is Bob.");
-   } // end of the program
-// new line 
+   } // end of the program 
 }
