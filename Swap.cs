@@ -15,6 +15,8 @@ public class Swap
       //print the origianl value of variable b
     Console.WriteLine(b);
       // set the intial variable to swap
+
+// set the variable 
     swap = a;
       // set the value of a to the current value of b 
     a = b;
