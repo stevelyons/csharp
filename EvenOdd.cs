@@ -10,13 +10,14 @@ namespace check1
 {
     class EvenOdd
     {
-// main
+// main function
         static void Main(string[] args)
         {
 // initialize the int i = 0;
             int i = 0;
 // read the number 
             Console.Write("Enter a Number : ");
+         // get the number from user
             i = int.Parse(Console.ReadLine());
             if (i % 2 == 0)
             {
