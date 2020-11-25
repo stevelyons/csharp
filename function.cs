@@ -67,6 +67,7 @@ class Function
     int x = 5, int y = 7;
     // this is the function 
     Foo();
+    // call the function Bar
     Bar();
     // function with parameters
     Addition(x,y);
