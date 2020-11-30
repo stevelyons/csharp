@@ -20,6 +20,8 @@ public class Addition
     int f = 1;
     // intialize the int g to 8
     int g = 8;
+      
+    int h = 10;
 
 Int h = 24;
     // print the sum of 5 + 3 = 8
@@ -38,8 +40,6 @@ Int h = 24;
     Console.wtiteline (a+e);
     // print the sum of 5 + 9 = 14
     Console.wtiteline (a+b+c);
-
-
     // print the sum of 9 + 8 + 67 = 84
     Console.wtiteline (e+g+i);   
     // print the sum of 5 + 3 + 7 + 9 + 8 + 67 = 106
