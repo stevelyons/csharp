@@ -5,12 +5,13 @@ class Recursion
     // main function
     public static void Main()
 {
-        // intialize variables number and result 
+    // intialize the integer variables number and result 
     int num, result;
-        // create new pro object 
+    // create new pro object 
     pro pg = new pro();
-    // enter the int
+    // prompt the user to enter a number
     Console.WriteLine("Enter the Number : ");
+    // get result 
     num=int.Parse(Console.ReadLine());
         // Get the result 
     result =pg.sum(num);
