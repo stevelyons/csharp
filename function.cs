@@ -56,6 +56,7 @@ class Function
   {
     // get difference
     int difference = x - y;
+// return the result 
     return difference;
   }
 
