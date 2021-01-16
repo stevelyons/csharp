@@ -79,9 +79,11 @@ class Function
     // call the Divide method
     Divide(x,y);
     Multiply(x,y);
-    // call the add method
+    // call the Add method
     Add(x, y);
+    // call the Subtraction function 
     Subtraction(x,y);
+    // call the Add function using the parameters 3 and 8 
     Add(3,8);
     Subtraction(9,7);
     // more functions
