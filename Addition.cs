@@ -20,9 +20,11 @@ public class Addition
     int f = 1;
     // intialize the int g to 8
     int g = 8;
-      
+    // initialize the int h to 10
     int h = 10;
 
+    // initialize the int q to 20
+    int q = 20;
 Int h = 24;
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
