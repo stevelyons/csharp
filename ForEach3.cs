@@ -26,6 +26,8 @@ namespace WindowsApplication1
             {
             // print message 
                 MessageBox.Show("The day is : " + day);
+
+// print the statement 
             }
         }
     } // end of the program
