@@ -1,6 +1,5 @@
-// C# program for Hello world! 
+// first program in C#
 Using System;
-// class
 public class HelloWord
 {
    // main function
@@ -8,7 +7,9 @@ public class HelloWord
    {
       // print the statement "Hello, World!"
       System.Console.WriteLine("Hello, World!");
-      // print the second statement"My name is Bob
+      // print My name is Bob
       System.Console.WriteLine("My name is Bob.");
-   } // end of the program 
+         // print My name is Chris
+      System.Console.WriteLine("My name is Chris.");
+   } // end of the program
 }
