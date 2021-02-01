@@ -14,11 +14,10 @@ class InsertionSort
          // this is the unsorted array [69,56,77,44,8,0,111,566
         int[] num3 = { 69, 56, 77, 44, 8, 0, 111, 566 };
         
-        
-        
         // setup the forloop based on the length of the array
         for (int i = 1; i < num.Length; i++)
         {
+// move
             // create new key from selected item in array
             int key = num[i];
             //initialize the j variable and set to the array list minus 1
