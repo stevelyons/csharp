@@ -51,6 +51,7 @@ public class Array
       Console.WriteLine(array[0]);
       Console.WriteLine(array[1]);
       Console.WriteLine(array[2]);
+// print the element 
       Console.WriteLine(array[3]);
       Console.WriteLine(array[4]);
       Console.WriteLine(array[5]);
