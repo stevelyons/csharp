@@ -4,15 +4,16 @@ class ArraySort
 {
     static void Main()
     {
-        // create an array of 5 strings for colors
+        // create an array of 7 strings for colors
         string[] colors = new string[]
         {
-            "orange",
-"Purple",
-            "blue",
-            "yellow",
-            "aqua",
-            "red"
+            "Orange",
+            "Purple",
+            "Blue",
+            "Yellow",
+            "Aqua",
+            "Hazel",
+            "Red"
         };
         
         // Call Array.Sort method.
