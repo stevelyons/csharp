@@ -11,6 +11,7 @@ int d = 6;
       // execute the action at least once 
       do 
       {
+         // add the increment 
         // increment the variable x by 1 
         x++;
 // new x count 
