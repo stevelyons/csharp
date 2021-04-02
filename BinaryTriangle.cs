@@ -24,6 +24,7 @@ class BinaryTriangle
                 {
                  // if you are at the last int  
                     if (lastInt == 1)
+                     // the last int
                     {
                      // print the current 
                         Console.Write("0");
