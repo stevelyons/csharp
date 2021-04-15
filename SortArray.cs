@@ -13,6 +13,8 @@ public class SortArray
       int[] intArray3 = new int[6] { 18, 10, 1, 6, 8, 11 };
       
       int[] intArray4 = new int[6] { 1, 8, 15, 6, 8, 1 };
+      
+       int[] intArray5 = new int[6] { 7, 8, 9, 6, 13, 1 };
       // sort the integer array object intArray
       Array.Sort(intArray); 
       // use the foreach method to iterate through the array object intArray
