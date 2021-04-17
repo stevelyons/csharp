@@ -39,6 +39,7 @@ Class Division
         int n = 78;
         // set the int z to 55
         int z = 55;
+// new int 
         
          // set the int w to 42
         int w = 42;
