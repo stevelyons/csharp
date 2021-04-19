@@ -28,6 +28,8 @@ public class Addition
 int s = 45;
       
       int o = 65;
+      
+      int m = k;
 
     // initialize the int q to 20
     int q = 20;
