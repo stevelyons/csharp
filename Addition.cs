@@ -31,6 +31,8 @@ int s = 45;
       
       int m = k;
 
+int l = 38;
+
     // initialize the int q to 20
     int q = 20;
 Int h = 24;
