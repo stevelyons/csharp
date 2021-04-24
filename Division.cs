@@ -43,6 +43,8 @@ Class Division
         
          // set the int w to 42
         int w = 42;
+        
+        int m = 101;
        
        // print the result of divide 3 by 8 
         Console.WriteLine(x/y);
