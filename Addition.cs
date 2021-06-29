@@ -69,6 +69,8 @@ int s = 45;
       
       int oa = 29;
       
+      int yo = 68;
+      
       int hl = 98;
       
       int nn = 29;
