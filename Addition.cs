@@ -18,6 +18,8 @@ int cc = 14;
       int dd = 4;
     // initialize the int i 
     int i = 67;
+      
+      int ii = 134;
       // intialize the int e to 9 
     int e = 9; 
       
