@@ -169,5 +169,9 @@ int l = 38;
     Console.wtiteline (i+g+e+c+b+a);  
     // print the sum of 67 + 8 + 9 + 7 + 3 + 5 = 99
     Console.wtiteline (i+g+e+c+b+a);
+      
+       Console.wtiteline (aa+bb+cc+dd);
+      
+      
   }
 } // end of the program
