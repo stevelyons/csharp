@@ -20,6 +20,7 @@ public class Addition
       int dd = 4;
     // initialize the int i 
     int i = 67;
+ int kj = 18;
       
       int ii = 134;
       // intialize the int e to 9 
