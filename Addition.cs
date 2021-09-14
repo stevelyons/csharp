@@ -8,7 +8,6 @@ public class Addition
     int a = 5;
     // initialize the integer aa
     int aa = 10;
-// edit
     // initialize the integer b
     int b = 15;
     // initialize the int b
@@ -39,7 +38,7 @@ public class Addition
     int ee = 18;
     // intialize the int f to 1
     int f = 1;
-      
+    // intialize the int ff to 2
       int ff = 2;
     // intialize the int g to 8
     int g = 8;
