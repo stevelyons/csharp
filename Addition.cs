@@ -70,10 +70,10 @@ public class Addition
     int y = 15;
     // initialize the int yy to 30 
     int yy = 30;
-      
-      int kk = 324;
-      
-      int rr = 295;
+    // initialize the int kk to 324
+    int kk = 324;
+    // initialize the int rr to 30 
+    int rr = 30;
       
       int oo = 19;
       
