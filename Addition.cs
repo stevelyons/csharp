@@ -124,6 +124,7 @@ int l = 38;
       int jjj = 56;
       
       int gg = 49;
+// initialize
       
       int pp = 989;
       
