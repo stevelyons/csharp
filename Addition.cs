@@ -111,13 +111,13 @@ public class Addition
    // initialize the int hl to 98
    int hl = 98;
    // initialize the int nn to 29
-      int nn = 29;
-    // initialize the int m 
-      int m = k;
-
-int l = 38;
-      
-      int ll = 89;
+   int nn = 29;
+   // initialize the int m to the int k
+   int m = k;
+   // initialize the int l to 38
+   int l = 38;
+   // initialize the int ll to 89   
+   int ll = 89;
       
       int jj = 28;
       
