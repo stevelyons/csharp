@@ -143,11 +143,11 @@ public class Addition
    // initialize the int uu to 104 
    int uu = 104;
    // initialize the int df to 5
-      int ff = 5;
-      
-      int hg = 89;
-      
-      int uu = 67;
+   int ff = 5;
+   // initialize the int hg to 89   
+   int hg = 89;
+   // initialize the int uu to 67   
+   int uu = 67;
       
       int xx = 31;
       
