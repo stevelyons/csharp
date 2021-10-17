@@ -162,9 +162,10 @@ public class Addition
    int h = 24;
    // initialize the int p to 45
    int p = 45;
-   // initialize the int hh to 
       
       int hh = 48; 
+
+    // initialize the int bb to 
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
@@ -189,7 +190,7 @@ public class Addition
     Console.wtiteline (i+g+e+c+b+a);  
     // print the sum of 67 + 8 + 9 + 7 + 3 + 5 = 99
     Console.writeline (i+g+e+c+b+a);
-    // print the sum of 
+    // print the sum of 68 + 89 + 99 + 29 + 1 = 
     Console.writeline (aa+bb+cc+dd);
     // print the sum of 
     Console.wtiteline (bb+ee+ii+dd);
