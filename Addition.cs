@@ -195,6 +195,7 @@ public class Addition
        // initialize the int ccc to 35
     int ccc = 35;
       
+int ddd = 86;
       
       
     // print the sum of 5 + 3 = 8
