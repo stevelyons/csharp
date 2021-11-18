@@ -209,6 +209,9 @@ public class Addition
       
       int vvv = 87;
 
+int aaa = 38;
+      
+
 int ggg = 100;
       int aaa = 38;
       
