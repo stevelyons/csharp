@@ -211,6 +211,8 @@ public class Addition
 
 int aaa = 38;
       
+      int www = 58;
+      
 
 int ggg = 100;
       int aaa = 38;
