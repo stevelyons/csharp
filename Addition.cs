@@ -209,6 +209,8 @@ public class Addition
       
       int vvv = 87;
 
+int sss = 67;
+
 int aaa = 38;
       
       int www = 58;
