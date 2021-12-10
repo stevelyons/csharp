@@ -211,13 +211,9 @@ public class Addition
 
 int sss = 67;
 
-int yyy = 20;
-
 int aaa = 38;
       
       int www = 58;
-
-int uuu = 5;
       
 
 int ggg = 100;
@@ -230,6 +226,14 @@ int ggg = 100;
       int ttt = 48;
       
       int nnn = 78;
+
+int yyy = 20;
+
+int uuu = 5;
+      
+      
+int eee = 55;
+
       
       
     // print the sum of 5 + 3 = 8
