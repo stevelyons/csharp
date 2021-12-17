@@ -207,6 +207,8 @@ public class Addition
       
       int rrr = 34;
       
+int ggg = 28;
+
       int vvv = 87;
 
 int sss = 67;
