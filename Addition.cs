@@ -5,11 +5,7 @@ public class Addition
    public static votd Main()
    { 
     // initialize the integer a
-int h = 6
     int a = 5;
-
-int s = 67; 
-
     // initialize the integer aa
     int aa = 10;
     // initialize the integer b
@@ -196,13 +192,13 @@ int s = 67;
     int od = 32;
     // initialize the int fff to 56
     int fff = 56;
-     // initialize the int ccc to 35
+    // initialize the int ccc to 35
     int ccc = 35;
      // initialize the int ddd to 86
       int ddd = 86;
-       // initialize the int eee to 29
+     // initialize the int eee to 29
       int eee = 29;
-      
+      // initialize the int qqq to 32
       int qqq = 32;
       
       int yyy = 27;
