@@ -259,10 +259,13 @@ int hhh = 28;
   Int PHP = 57;
 
 int ppp = 45;
+
       
       int krk = 32;
-    int yyy = 180;
-    int zzz = 68;
+   
+      
+    // set the int
+    int wow = 92;
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
