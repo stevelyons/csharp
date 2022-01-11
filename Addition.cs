@@ -4,7 +4,9 @@ public class Addition
 {
    public static votd Main()
    { 
-Int s = 67;
+
+Int st = 67;
+
     // initialize the integer a
     int a = 5;
     // initialize the integer aa
@@ -218,7 +220,7 @@ int aaa = 38;
       
       int www = 58;
       
-int fff = 39;
+
 int = lll = 38;
 
 int rrr= 56;
@@ -260,6 +262,8 @@ int hhh = 28;
   Int PHP = 57;
 
 int ppp = 45;
+
+int fff = 39;
 
       
       int krk = 32;
