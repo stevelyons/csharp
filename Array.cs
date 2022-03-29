@@ -5,7 +5,7 @@ public class Array
    public static void Main()
    {
      // create an int array of 31 indexes 
-     int[] array = new int[31];
+     int[] array = new int[25];
       
       // create a double array
       double[] doubleArray = new double[10];
@@ -38,13 +38,13 @@ public class Array
       array[16] = 17;
       array[17] = 18;
       array[18] = 19;
-      
-      array[19] = 20
+      array[19] = 20;
       array[20] = 21;
       array[21] = 22;
       array[22] = 23;
       // add to the array
       array[23] = 45;
+      array[24] = 25;
       
       // printthe array element 
       // print thefirst element 
