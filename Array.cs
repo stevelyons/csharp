@@ -60,13 +60,13 @@ public class Array
       array[23] = 45;
        // set the value of the index 
       array[24] = 25;
-      
-      // printthe array element 
-      // print thefirst element 
+      // print the first element 
       Console.WriteLine(array[0]);
+      // print the second element 
       Console.WriteLine(array[1]);
+      // print the third element 
       Console.WriteLine(array[2]);
-// print the element 
+      // print the fourth element 
       Console.WriteLine(array[3]);
       Console.WriteLine(array[4]);
       Console.WriteLine(array[5]);
