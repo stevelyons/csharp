@@ -72,7 +72,9 @@ public class Array
       Console.WriteLine(array[4]);
       // print the sixth element 
       Console.WriteLine(array[5]);
+      // print the seventh element 
       Console.WriteLine(array[6]);
+      // print the eighth element 
       Console.WriteLine(array[7]);
       Console.WriteLine(array[8]);
       Console.WriteLine(array[9]);
