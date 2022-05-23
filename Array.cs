@@ -23,7 +23,7 @@ public class Array
       // add to the int array 
       array[5] = 16;
       // add to the int array 
-      array[6] = 7; 
+      array[6] = 17; 
       // add to the int array 
       array[7] = 8; 
       // add to the int array 
