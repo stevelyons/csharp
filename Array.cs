@@ -13,9 +13,9 @@ public class Array
       // set the first array entry to 1
       array[0] = 16;
       // add to the array
-      array[1] = 10;
+      array[1] = 20;
       // add to the array
-      array[2] = 3;
+      array[2] = 23;
       // add to the int array
       array[3] = 45;
       // add to the int array 
@@ -78,11 +78,11 @@ public class Array
       array[32] = 32;
       // set the value of the index
       array[33] = 33;
-          // set the value of the index
+      // set the value of the index
       array[34] = 34;
 
-array[35] = 35;
 
+array[35] = 35;
 
       // print the first element 
       Console.WriteLine(array[0]);
