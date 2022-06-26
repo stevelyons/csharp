@@ -8,11 +8,8 @@ public class Array
      int[] array = new int[25];
       
       // create a double array
-      double[] doubleArray = 
-
-
-Int new double[10];
-      
+      double[] doubleArray = new double[10];
+    
       // set the first array entry to 1
       array[0] = 16;
       // add to the array
@@ -99,6 +96,9 @@ Int new double[10];
       array[41] = 41;
       // set the value of the index
       array[42] = 42;
+      
+      // set the value of the index
+      array[43] = 43;
 
       // print the first element 
       Console.WriteLine(array[0]);
