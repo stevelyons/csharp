@@ -124,10 +124,13 @@ public class Array
       array[55] = 55;
       // set the value of the index
       array[56] = 56;
-      
 
 array[57] = 57;
+      
+      
+array[58] = 58;
 
+      
       // print the first element 
       Console.WriteLine(array[0]);
       // print the second element 
