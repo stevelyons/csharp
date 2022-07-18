@@ -141,7 +141,7 @@ array[61] = 61;
       array[62] = 62;
       
       
-      array[62] = 62;
+      array[62] = 63;
 
       
       // print the first element 
