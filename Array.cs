@@ -162,7 +162,10 @@ public class Array
 
 array[] = 73;
 
-array[] = 73;
+arrays[] = 73;
+
+arrays[] = 74;
+
 
       // print the first element 
       Console.WriteLine(array[0]);
