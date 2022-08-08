@@ -177,6 +177,7 @@ arrays[78] = 77;
 
 46
 
+67
   
 
       // print the first element 
