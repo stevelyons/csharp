@@ -210,7 +210,7 @@ public class Array
       array[95] = 92;
       // set the value of the index
       array[96] = 93;
-      
+      // set the value of the index    
       array[97] = 94;
 
       // print the first element 
