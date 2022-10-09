@@ -240,6 +240,9 @@ public class Array
 
 array[112] = 105;
 
+array[112] = 105;
+
+
       // print the first element 
       Console.WriteLine(array[0]);
       // print the second element 
