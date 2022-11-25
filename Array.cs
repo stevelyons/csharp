@@ -349,6 +349,7 @@ public class Array
       // print the fifth element 
       Console.WriteLine(array[4]);
       // print the sixth element 
+
       Console.WriteLine(array[5]);
       // print the seventh element 
       Console.WriteLine(array[6]);
