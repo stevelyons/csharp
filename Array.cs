@@ -339,6 +339,8 @@ public class Array
       
                 // set the value of the index 
       array[157] = 158;
+
+Array =qr
       
       
 
