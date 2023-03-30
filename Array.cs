@@ -8,15 +8,15 @@ public class Array
      int[] array = new int[200];
     
       // set the first array entry to 1
-      array[0] = 16;
+      array[0] = 0;
       // add to the array
-      array[1] = 20;
+      array[1] = 1;
       // add to the array
-      array[2] = 23;
+      array[2] = 2;
       // add to the int array
-      array[3] = 45;
+      array[3] = 3;
       // add to the int array 
-      array[4] = 15;
+      array[4] = 4;
       // add to the int array 
       array[5] = 16;
       // add to the int array 
