@@ -18,11 +18,11 @@ public class Array
       // add to the int array 
       array[4] = 4;
       // add to the int array 
-      array[5] = 16;
+      array[5] = 5;
+      // fadd to the int array 
+      array[6] = 6; 
       // add to the int array 
-      array[6] = 17; 
-      // add to the int array 
-      array[7] = 18; 
+      array[7] = 7; 
       // add to the int array 
       array[8] = 19;
       // set the value of the index 
