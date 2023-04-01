@@ -24,11 +24,11 @@ public class Array
       // add to the int array 
       array[7] = 7; 
       // add to the int array 
-      array[8] = 19;
+      array[8] = 8;
       // set the value of the index 
-      array[9] = 10;
+      array[9] = 9;
       // add to the int array 
-      array[10] = 11;
+      array[10] = 10;
       // set the value of the index 
       array[11] = 12;
       // set the value of the index 
