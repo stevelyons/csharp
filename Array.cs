@@ -254,15 +254,15 @@ public class Array
       // set the value of the index 
       array[119] = 105;
       // set the value of the index 
-      array[120] = 105;
+      array[120] = 120;
       // set the value of the index 
-      array[121] = 105;
+      array[121] = 121;
       // set the value of the index 
-      array[122] = 105;
+      array[122] = 122;
       // set the value of the index 
-      array[123] = 105;
+      array[123] = 123;
       // set the value of the index 
-      array[124] = 105;]
+      array[124] = 124;]
       // set the value of the index 
       array[125] = 125;
       // set the value of the index 
