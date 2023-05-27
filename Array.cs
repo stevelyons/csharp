@@ -423,6 +423,8 @@ public class Array
       array[204] = 204;
       // set the value of the index 
       array[205] = 205;
+            array[206] = 206;
+            
             
       // print the first element 
       Console.WriteLine(array[0]);
