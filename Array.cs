@@ -426,7 +426,10 @@ public class Array
       // set the value of the index 
       array[206] = 206;
       // set the value of the index       
-      array[207] = 207
+      array[207] = 207;
+     
+      // set the value of the index       
+      array[208] = 208;    
             
       // print the first element 
       Console.WriteLine(array[0]);
