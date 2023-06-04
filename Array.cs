@@ -436,7 +436,7 @@ public class Array
             
            array[211] = 211; 
             
-            array[211] = 211; 
+            array[212] = 212; 
             
             
       // print the first element 
