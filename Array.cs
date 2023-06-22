@@ -460,7 +460,9 @@ public class Array
 
             array[223] = 223; 
 
-       array[224] = 224;     
+       array[224] = 224;   
+
+            array[225] = 225;
       // print the first element 
       Console.WriteLine(array[0]);
       // print the second element 
