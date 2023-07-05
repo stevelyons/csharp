@@ -483,6 +483,8 @@ public class Array
             array[234] = 234;
 
             array[235] = 235;
+
+            array[236] = 236;
             
       // print the first element 
       Console.WriteLine(array[0]);
