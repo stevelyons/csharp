@@ -602,6 +602,12 @@ public class Array
           
       // set the value of the index
       array[294] = 294;     
+
+                     
+      // set the value of the index
+      array[294] = 294;  
+
+
             
       // print the first element 
       Console.WriteLine(array[0]);
