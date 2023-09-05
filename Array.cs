@@ -605,7 +605,8 @@ public class Array
 
                      
       // set the value of the index
-      array[294] = 294;  
+      array[295] = 295
+            
 
 
             
