@@ -597,19 +597,15 @@ public class Array
       array[291] = 291; 
       // set the value of the index
       array[292] = 292; 
-     // set the value of the index
+      // set the value of the index
       array[293] = 293; 
-          
       // set the value of the index
-      array[294] = 294;     
-
-                     
+      array[294] = 294;                  
       // set the value of the index
-      array[295] = 295
-            
-
-
-            
+      array[295] = 295;
+      // set the value of the index
+      array[295] = 296;
+                        
       // print the first element 
       Console.WriteLine(array[0]);
       // print the second element 
