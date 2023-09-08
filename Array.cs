@@ -604,10 +604,9 @@ public class Array
       // set the value of the index
       array[295] = 295;
       // set the value of the index
-      array[295] = 296;
-
-             // set the value of the index
       array[296] = 296;
+      // set the value of the index
+      array[297] = 297;
                         
       // print the first element 
       Console.WriteLine(array[0]);
