@@ -608,7 +608,9 @@ public class Array
       // set the value of the index
       array[297] = 297;
 
-      array[298] = 298;      
+      array[298] = 298;  
+
+             array[299] = 299;  
                         
       // print the first element 
       Console.WriteLine(array[0]);
