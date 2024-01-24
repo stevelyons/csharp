@@ -706,21 +706,13 @@ public class Array
       Console.WriteLine(array[45]);
       // print the forty-seventh
       Console.WriteLine(array[46]);
-      // print the forty-eighth
       Console.WriteLine(array[47]);
-      // print the forty-ninth
       Console.WriteLine(array[48]);
-       // print the fifthieth
       Console.WriteLine(array[49]);
-      // print the fifty-first
       Console.WriteLine(array[50]);
-      // print the fifty-second
       Console.WriteLine(array[51]);
-      // print the fifty-third
       Console.WriteLine(array[52]);
-      // print the fifty-fourth
       Console.WriteLine(array[53]);
-
       Console.WriteLine(array[54]);
       Console.WriteLine(array[55]);
       Console.WriteLine(array[56]);
