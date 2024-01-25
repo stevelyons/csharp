@@ -6,8 +6,7 @@ public class Array
    {
      // create an int array of 200 indexes 
      int[] array = new int[300];
-    
-      // set the first array entry to 1
+\
       array[0] = 0;
       // add to the array
       array[1] = 1;
@@ -843,7 +842,6 @@ public class Array
       Console.WriteLine(array[197]);
       Console.WriteLine(array[198]);
       Console.WriteLine(array[199]);
-      Console.WriteLine(array[200]);
    }
    // the end of program
 }
