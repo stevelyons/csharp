@@ -30,7 +30,7 @@ public class Array
       array[11] = 11;
       // set the value of the index 
       array[12] = 12;
-      // set the value of the index 
+   
       array[13] = 13;
       // set the value of the index 
       array[14] = 14;
