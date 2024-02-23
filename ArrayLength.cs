@@ -10,6 +10,8 @@ class ArrayLength
         int[] arrayB = new int[10];
         // intitialize the int array with five elements
          int[] arrayC = new int[15];
+
+        int[] arrayD = new int[15];
         // get the length of the stay 
         int lengthA = arrayA.Length;
         // print the array and the length
