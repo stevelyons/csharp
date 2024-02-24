@@ -14,7 +14,7 @@ class ArrayLength
         int[] arrayD = new int[15];
         // get the length of the stay 
         int lengthA = arrayA.Length;
-        // print the array and the length
+        // print the array and the le
         Console.WriteLine("Length of ArrayA : {0}", +lengthA); 
         // print the current size of the array  
         Console.WriteLine("Length of ArrayB : {0}", +lengthB); 
