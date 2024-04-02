@@ -1,6 +1,6 @@
 // c#  of using arrays
 Using System;
-public class Array
+public class Arra
 {
    public static void Main()
    {
