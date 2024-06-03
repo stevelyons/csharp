@@ -108,9 +108,8 @@ public class Array
       array[97] = 97;
       array[98] = 98; 
       array[99] = 99;
-   
 
-      // print array
+      // print the items in array
       Console.WriteLine(array[0]);
       Console.WriteLine(array[1]);
       Console.WriteLine(array[3]);
