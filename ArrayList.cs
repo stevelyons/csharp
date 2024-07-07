@@ -26,9 +26,6 @@ public class ArrayList
       // add number 13 to the array list
       myArrayList.AddmyArrayList.Add(13);
       
-      // adds srring to the end
-      myArrayList.Add("String");
-      // create newform
-      myArrayList.Add(new Form());  
+ 
   }
 } // end of the program
