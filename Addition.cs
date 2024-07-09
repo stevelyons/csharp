@@ -56,9 +56,6 @@ public class Addition
     int vv = 45;
     // initialize the int v to 98
     int v = 98;
-
-    int mn to 76
-    int mn = 76;
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
