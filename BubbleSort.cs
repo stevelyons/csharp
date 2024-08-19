@@ -1,6 +1,5 @@
 // C# program to iterate the bubblesort method to sort an array 
 Using System;
-// bubble sort
 public class BubbleSort
 {     // main function
       public static void main()
