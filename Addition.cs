@@ -53,10 +53,10 @@ public class Addition
 // initialize the int n
     int x = 16;
    // initialize the int n
-    int t = 32;
+    int y = 32;
 
         // initialize the int n
-    int s = 32;
+    int z = 32;
       
       
       
