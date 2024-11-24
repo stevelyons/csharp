@@ -66,6 +66,7 @@ public class Addition
       int gg = 50;
       int hh = 89;
       int ii = 56;
+      int jj = 24;
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
