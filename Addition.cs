@@ -52,9 +52,7 @@ public class Addition
     int w = 16;  
     // initialize the int w
     int x = 16;
-   // initialize the int y
     int y = 32;
-   // initialize the int z
     int z = 89;
       
       int aa = 10;
