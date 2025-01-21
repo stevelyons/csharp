@@ -48,9 +48,7 @@ public class Addition
     int u = 8;
     // initialize the int v
     int v = 16;
-    // initialize the int 2
     int w = 16;  
-    // initialize the int w
     int x = 16;
     int y = 32;
     int z = 89;
