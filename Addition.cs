@@ -21,12 +21,9 @@ public class Addition
     // initialize the int h
     int h = 7;
     // initialize the int i
-    int i = 7;
-    // initialize the int j
+    int i = 7;x
     int j = 30;
-    // initialize the int k
     int k = 23;
-    // initialize the int l
     int l = 50;
     int m = 2;
     int n = 38;
