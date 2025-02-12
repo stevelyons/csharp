@@ -29,17 +29,6 @@ public class Addition
        int v = 16;
        int w = 16;  
        int x = 16;
-       int y = 32;
-       int z = 89;
-   
-      int aa = 10;
-      int bb = 23;
-      int cc = 39;
-      int dd = 50;
-      int ee = 75;
-      int ff = 100;
-      int gg = 50;
-      int hh = 44;
 
       
     // print the sum of 5 + 3 = 8
