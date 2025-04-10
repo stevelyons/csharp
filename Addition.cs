@@ -70,13 +70,13 @@ public class Addition
        Console.Writeline(r);
       // print the sum of s
        Console.Writeline(s);
-        // print the sum of t
+      // print the sum of t
        Console.Writeline(t);
       // print the sum of u
        Console.Writeline(u);
        // print the sum of v
        Console.Writeline(v);
-      // print the sum of w
+       // print the sum of w
        Console.Writeline(w);
       // print the sum of x
        Console.Writeline(x);
@@ -85,4 +85,4 @@ public class Addition
       // print the sum of z
        Console.Writeline(z);
   }
-} // end of the program
+} // end of the programx
