@@ -1,4 +1,6 @@
-// c#  of using array
+
+
+// dsgr;yu // c#  of using array
 Using System;
 public class Array
 {
