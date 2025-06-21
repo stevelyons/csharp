@@ -2,6 +2,7 @@
 Using System;
 public class Array
 {
+   jkljl
    public static void Main()
    {
       // create an int array of 50 indexes 
