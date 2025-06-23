@@ -1,10 +1,7 @@
-
-
-// dsgr;yu // c#  of using array
+// c#  of using array
 Using System;
 public class Array
 {
-   jkljl
    public static void Main()
    {
       // create an int array of 50 indexes 
@@ -85,8 +82,7 @@ public class Array
       Console.WriteLine(array[21]);
       Console.WriteLine(array[22]);
       Console.WriteLine(array[23]);
-
-      Console.WriteLine(array[37]);
+      Console.WriteLine(array[24]);
       Console.WriteLine(array[38]);
       Console.WriteLine(array[39]);
       Console.WriteLine(array[40]);
