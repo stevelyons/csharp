@@ -9,8 +9,8 @@ class ArrayLength
         // intitialize the int array with ten elements
         int[] arrayB = new int[10];
         // intitialize the int array with five elements
-         int[] arrayC = new int[15];
-
+        int[] arrayC = new int[15];
+        // initialize the int array with 20 elements
         int[] arrayD = new int[20];
 
         int[] arrayD = new int[15];
