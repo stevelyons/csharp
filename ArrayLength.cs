@@ -15,6 +15,8 @@ class ArrayLength
         // initialize the int array with thurty elements
         int[] arrayE = new int[30];
 
+        // int []] more arraya
+
         // get the length of the stay 
         int lengthA = arrayA.Length;
         // print the array and the le
