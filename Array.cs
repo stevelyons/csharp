@@ -6,7 +6,6 @@ public class Array
    {
       // create an int array of 60 indexes 
       int[] array = new int[60];
-      array[0[ = 0;
       array[0] = 0;
       array[1] = 1;
       array[2] = 2;
