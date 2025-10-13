@@ -5,6 +5,7 @@ public class Addition
    { 
       // initialize 
        int a = 15; 
+       int aa = 30;
        int b = 20;
        int c = 40;
        int d = 17;
