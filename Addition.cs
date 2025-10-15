@@ -7,7 +7,8 @@ public class Addition
        int a = 15; 
        int aa = 30;
        int b = 20;
-       int c = 40;
+       int bb = 40;
+       int c = 30;
        int d = 17;
        int e = 2;
        int f = 10;
