@@ -11,6 +11,7 @@ public class Addition
        int c = 30;
        int cc = 60;
        int d = 17;
+      int dd = 34;
        int e = 2;
        int f = 10;
        int g = 16;
