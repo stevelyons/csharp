@@ -14,7 +14,7 @@ public class Array
       array[6] = 6; 
       array[7] = 78; 
       array[8] = 80;
-      array[9] = 9;
+      array[9] = 99;
       array[10] = 10;
       array[11] = 11;
       array[12] = 12;
