@@ -52,8 +52,8 @@ public class Addition
        int y = 10;
        int z = 100;
        int yy = 20;
-       int zz = 29;
-       int zzz = 10;
+       int z = 29;
+       int zz = 10;
       
        // print the sum of a and b
        Console.WriteLine(a+b);
