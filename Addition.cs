@@ -51,8 +51,8 @@ public class Addition
        int vv = 140;
        int w = 39;
        int ww = 78;
-       int x = 10;
-       int xx = 20;
+       int x = 30;
+       int xx = 60;
        int y = 10;
        int yy = 20;
        int z = 29;
