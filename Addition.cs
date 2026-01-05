@@ -98,16 +98,17 @@ public class Addition
        Console.Writeline(s);
       // print the sum of t
        Console.Writeline(t);
-      // print the sum of u
+       // print the sum of u
        Console.Writeline(u);
        // print the sum of v
        Console.Writeline(v);
        // print the sum of w
        Console.Writeline(w);
-      // print the sum of x
+       // print the sum of x
        Console.Writeline(x);
        // print the sum of aa + bb 
-      Console.Writeline(aa + bb);
+       Console.Writeline(aa + bb);
+       // print the sum of xx + yy
        Console.Writeline(xx+yy);
       // print the sum of yy + zz
        Console.Writeline(yy+zz);
