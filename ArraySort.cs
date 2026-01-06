@@ -19,6 +19,7 @@ class ArraySort
             "Mango",
             "Maroon",
             "Red",
+            "Burnt Orange",
             "Golden"
         };
         
