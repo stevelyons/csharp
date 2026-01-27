@@ -2,7 +2,7 @@
 class Function
 {
   // this is a sample function named Foo();
-  // the function foo prints the statement "this is the function foo"
+  // the function Foo() prints the statement "this is the function foo"
   void Foo()
   {
     // print the statement
