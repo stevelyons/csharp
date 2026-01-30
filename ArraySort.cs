@@ -18,7 +18,6 @@ class ArraySort
             "Mango",
             "Green",
             "Pink",
-            "Rosado",
             "Maroon",
             "Red",
             "Burnt Orange",
