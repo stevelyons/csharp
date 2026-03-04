@@ -29,7 +29,7 @@ class ForLoop
     for (int j = 0; j < 5; j++)
     {
       // print the line number 
-      Console.WriteLine("This is line " + j);
+      Console.WriteLine("This is line number " + j);
     }
     // print the line up to 10 
     for (int k = 0; k < 10; k++)
