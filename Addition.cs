@@ -50,11 +50,11 @@ public class Array
       array[42] = 35;
       array[43] = 52;
       array[44] = 71;
-      array[45] = 52;
+      array[45] = 12;
       array[46] = 53;
       array[47] = 73;
       array[48] = 62;
-      array[49] = 74;
+      array[49] = 79;
    
       // print the items in array
       Console.WriteLine(array[0]);
