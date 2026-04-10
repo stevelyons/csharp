@@ -29,10 +29,6 @@ class LowerUpper
     stringArray.SetValue("Banana", 9);
     // set the value to Apricot
     stringArray.SetValue("Cumquat", 10);
-    // set the value to dragonfruit
-    stringArray.SetValue("Dragonfruit", 11);
-    // set the value
-    stringArray.SetValue("Black Cherry", 12);
 
     //print "the lower" 
             Console.WriteLine("The Lower Bound of the Array : {0}",stringArray.GetLowerBound(0).ToString());
