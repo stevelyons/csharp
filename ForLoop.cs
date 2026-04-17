@@ -4,8 +4,6 @@ class ForLoop
   // main function
   public static void main()
   {
-    // int variables 
-    int z = 0;
     // increment the for loop by one and print statement
     for(int i = 0; i < 10; i++)
     {
@@ -29,7 +27,7 @@ class ForLoop
     for (int j = 0; j < 5; j++)
     {
       // print the line number 
-      Console.WriteLine("This is line number " + j);
+      Console.WriteLine("This is line " + j);
     }
     // print the line up to 10 
     for (int k = 0; k < 10; k++)
