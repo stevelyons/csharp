@@ -12,8 +12,7 @@ public class ArrayList
       ArrayList myArrayList3 = new ArrayList();
       // create the fourth instance of ArrayList()
       ArrayList myArrayList4 = new ArrayList();
-      // create the fifth instance of ArrayList
-      ArrayList myArrayList5 = new ArrayList();
+      
       
       // add the integer 56 to the first ArrayList
       myArrayList.Add(92);
@@ -29,7 +28,6 @@ public class ArrayList
       myArrayList.Add(40); 
       // add number 13 to the array list
       myArrayList.AddmyArrayList.Add(13);
-      
  
   }
 } // end of the program
