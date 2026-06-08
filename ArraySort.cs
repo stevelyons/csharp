@@ -11,6 +11,7 @@ class ArraySort
             "Blue",
             "Yellow",
             "White",
+            "Pink",
             "Green",
             "Red",
             "Golden"
