@@ -1,45 +1,57 @@
-// implementing Binary Triangle in C#
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
- 
-class BinaryTriangle
+// program to show division in C#
+Using System;
+Class Division
+{
+   // main function 
+    public static void Main()
     {
- // main function
-        public static void Main(String[] args)
-        {
-         // int variables
-            int p, lastInt = 0, input;
-         // get the number of rows
-            Console.WriteLine("Enter the Number of Rows : ");
-          // get the input fo the integer
-            input = int.Parse(Console.ReadLine());
-            // for loop to iterate through loop
-            for (int i = 1; i <= input; i++)
-            {
-// set the cord 
-                // for loop to iterate
-                for (p = 1; p <= i; p++)
-                {
-                 // if you are at the last int  
-                    if (lastInt == 1)
-                     // the last int
-                    {
-                     // print the current 
-                        Console.Write("0");
-                     // set the int
-                        lastInt = 0;
-                    }
-                 // find the last int
-                    else if (lastInt == 0)
-                    {
- // print
-                        Console.Write("1");
-                        lastInt = 1;
-                    }
-                } Console.Write("\n");
-            }
-            Console.ReadLine();
-        } 
-    } // end of program 
+        // initialize x to 3 
+        int x = 3;
+        // initialize y to 8
+        int y = 8;
+        // initalize c to 10
+        int c = 10;
+        // initialize d to 3
+        int d = 3;
+        // initalize e to 18
+        int e = 18;
+        // initialize w to 7
+        int w = 7;
+        // initialize the variable i = 56
+        int i = 56;
+        // initialize the variable o 
+        int o = 32;
+        //initialize the variable
+        int k = 89;
+       
+        // print the result of divide 3 by 8 
+        Console.WriteLine(x/y);
+        // print the result of divide 8 / 3 
+        Console.WriteLine(y/x);
+        // divide 3 by 3 = 1
+        Console.WriteLine(x/d);
+        // divide 3 by 3 = 1
+        Console.WriteLine(d/x);
+        // divide 3 / 8
+        Console.WriteLine(d/y);
+        // divide 8 / 3 
+        Console.WriteLine(y/d);
+        // divide 8 / 3 = 2.33333
+        Console.WriteLine (y/d);
+        // divide 10 / 3 
+        Console.WriteLine(c/d);
+        // divide 18 / 3
+        Console.wtiyeline(e/x);
+        // divide 3 // 18
+        Console.writeline(x/e);
+        // print the result of 3 / 18
+        Console.writeline(y/e);
+        // divide 15 / 18
+        Console.writeline (g/e);
+        Console.writeline (o/i);
+        Console.writeline (d/o);
+        // adding and dividing variables
+        Console.writeline (x+y/o);
+        Console.writeline (x*b/o);
+    } // end of the program 
+}
