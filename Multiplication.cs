@@ -34,8 +34,6 @@ Class Multiplication
         int f =  2;
         // set the int g to s
         int g = s;
-        // set the int f to 7
-        int f = 7;
         
         //multiple the variables 
         Console.WriteLine(x*y);
@@ -45,7 +43,6 @@ Class Multiplication
         Console.WriteLine(x*w);
         // multiply x by i 
         Console.WriteLine(x*i);
-        //pront 
         Console.writelone(p*s);
         // print the results
         Console.WriteLine(s);
@@ -57,6 +54,5 @@ Class Multiplication
         Console.WriteLine(a*b*s);
         // print the results
         Console.WriteLine(i*b*p);
-        // end of the program 
         }
 }
