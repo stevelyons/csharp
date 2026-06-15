@@ -14,7 +14,7 @@ class ArraySort
             "Pink",
             "Green",
             "Red",
-            "Golden"
+            "Gold"
         };
         
         // Call Array.Sort method.
