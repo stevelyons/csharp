@@ -21,11 +21,7 @@ Class Division
         int i = 56;
         // initialize the variable o 
         int o = 32;
-        //initialize the variable
-        int k = 89;
-        // set the int f to the value of e (f = 18)
-        int f = e;
-       
+      
         // print the result of divide 3 by 8 
         Console.WriteLine(x/y);
         // print the result of divide 8 / 3 
