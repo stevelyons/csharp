@@ -20,7 +20,7 @@ public class Array
       array[12] = 12;
       array[13] = 81;
       array[14] = 14;
-      array[15] = 7; 
+      array[15] = 47; 
       array[16] = 46;
       array[17] = 57;
       array[18] = 18;
@@ -53,7 +53,6 @@ public class Array
       array[45] = 12;
       array[46] = 53;
       array[47] = 73;
-      array[48] = 62;
    
       // print the items in array
       Console.WriteLine(array[0]);
