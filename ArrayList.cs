@@ -17,8 +17,5 @@ public class ArrayList
       myArrayList.Add(89);      
        // add 12 to the current array list
       myArrayList.Add(61);  
-      // add 40 to the current array list
-      myArrayList.Add(40); 
- 
   }
 } // end of the program
