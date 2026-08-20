@@ -3,9 +3,9 @@ public class Addition
 {
    public static void Main()
    {
-      // create an int array of 40 indexes 
+      // int
       int x = 7;
-      int y = 2;
+      int y = 4;
       int a = 10;
       int z = x;
       int k = a+x+y;
@@ -17,4 +17,3 @@ public class Addition
    }
    // the end of program
 }
-x
