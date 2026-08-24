@@ -3,11 +3,12 @@ public class Addition
 {
    public static void Main()
    {
-      // create an int array of 40 indexes 
+      // initialize int variables
       int x = 7;
       int y = 5;
       int a = 10;
       int z = x;
+      int b = 30;
       int k = a+x+y;
 
       Console.WriteLine(x);
