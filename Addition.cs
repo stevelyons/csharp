@@ -10,7 +10,7 @@ public class Addition
       int z = x;
       int b = 15;
       int k = a+x+y;
-      int c = 2;
+      int c = 1;
 
       Console.WriteLine(x);
       Console.WriteLine(y);
