@@ -8,6 +8,7 @@ class ArraySort
         string[] colors = new string[]
         {
             "Orange",
+            "Azul",
             "Blue",
             "Yellow",
             "White",
