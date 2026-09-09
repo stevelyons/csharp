@@ -6,7 +6,7 @@ public class Addition
       // initialize int variables
       int x = 7;
       int y = 10;
-      int a = 8;
+      int a = 16;
       int z = x;
       int b = 25;
       int k = a+y;
