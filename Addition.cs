@@ -4,7 +4,7 @@ public class Addition
    public static void Main()
    {
       // initialize int variables
-      int x = 40;
+      int x = 5;
       int y = 10;
       int a = 8;
       int z = x;
