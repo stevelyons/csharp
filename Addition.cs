@@ -8,7 +8,7 @@ public class Addition
       int y = 1;
       int a = 18;
       int z = x;
-      int b = 25;
+      int b = z;
       int c = 30;
 
       Console.WriteLine(x);
