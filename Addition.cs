@@ -8,8 +8,8 @@ public class Addition
       int y = 1;
       int a = 18;
       int z = x;
-      int b = z;
-      int c = 3;
+      int b = y;
+      int c = z;
 
       Console.WriteLine(x);
       Console.WriteLine(y);
