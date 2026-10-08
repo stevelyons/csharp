@@ -4,9 +4,9 @@ public class Addition
    public static void Main()
    {
       // initialize int variables
-      int x = 2;
-      int y = 1;
-      int a = 8;
+      int x = 12;
+      int y = 19;
+      int a = 18;
       int z = x;
       int b = y;
       int c = z;
