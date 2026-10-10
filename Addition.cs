@@ -17,6 +17,7 @@ public class Addition
       Console.WriteLine(x+c);
       Console.WriteLine(z+x);
       Console.WriteLine(y+x);
+      Console.WriteLine(a+b);
    }
    // the end of program
 }
