@@ -6,11 +6,10 @@ public class ArrayList
    {
       // create instance of ArrayList()
       ArrayList myArrayList = new ArrayList();
-      
       // add the integer 82 to the first ArrayList
       myArrayList.Add(82);
-      // add the integer 56 to the ArrayList
-      myArrayList.Add(56);
+      // add the integer 50 to the ArrayList
+      myArrayList.Add(50);
       // add 12 to the current array list
       myArrayList.Add(12);
       // add 12 to the current array list
