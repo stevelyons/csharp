@@ -14,11 +14,11 @@ public class Addition
       Console.WriteLine(x);
       Console.WriteLine(y);
       Console.WriteLine(z+x);
-      Console.WriteLine(x+c);
+      Console.WriteLine(x+z);
       Console.WriteLine(z+x);
       Console.WriteLine(y+x);
       Console.WriteLine(a+b);
-      Console.WriteLine(a+z);
+      Console.WriteLine(a+z+5);
    }
    // the end of program
 }
