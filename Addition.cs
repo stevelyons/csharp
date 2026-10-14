@@ -5,7 +5,7 @@ public class Addition
    {
       // initialize int variables
       int x = 12;
-      int y = 19;
+      int y = 9;
       int a = 18;
       int z = x;
       int b = y;
