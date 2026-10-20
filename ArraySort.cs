@@ -12,6 +12,7 @@ class ArraySort
             "Yellow",
             "White",
             "Pink",
+            "Silver",
             "Green",
             "Red"
         };
