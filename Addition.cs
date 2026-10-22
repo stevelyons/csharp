@@ -20,6 +20,7 @@ public class Addition
       Console.WriteLine(y+x+6);
       Console.WriteLine(a+b);
       Console.WriteLine(a+z+5);
+      Console.WriteLine(k);
    }
    // the end of program
 }
