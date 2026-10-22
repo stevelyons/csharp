@@ -18,7 +18,7 @@ public class Addition
       Console.WriteLine(x+z+7);
       Console.WriteLine(z+x+9);
       Console.WriteLine(y+x+6);
-      Console.WriteLine(a+b);
+      Console.WriteLine(a+b+c);
       Console.WriteLine(a+z+5);
       Console.WriteLine(k);
    }
