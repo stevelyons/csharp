@@ -9,7 +9,7 @@ public class Addition
       int a = 8;
       int z = x;
       int b = y;
-      int c = z;
+      int c = 88;
       int k = 10;
 
       Console.WriteLine(x);
