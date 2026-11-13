@@ -12,7 +12,7 @@ public class Addition
       int c = 6;
       int k = 12;
       int l = 9;
-      int m - 50;
+      int m = 5;
 
       Console.WriteLine(x);
       Console.WriteLine(y);
