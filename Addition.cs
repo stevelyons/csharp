@@ -9,7 +9,7 @@ public class Addition
       int a = 8;
       int z = x;
       int b = y;
-      int c = 6;
+      int c = 16;
       int k = 12;
       int l = 9;
       int m = 5;
