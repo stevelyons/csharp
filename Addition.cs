@@ -11,7 +11,7 @@ public class Addition
       int b = y;
       int c = 6;
       int k = c;
-      int l = 90;
+      int l = 9;
       int m = l;
 
       Console.WriteLine(x);
