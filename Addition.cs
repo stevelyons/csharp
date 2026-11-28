@@ -6,12 +6,12 @@ public class Addition
       // initialize int variables
       int x = 5;
       int y = 19;
-      int a = 8;
+      int a = 16;
       int z = x;
       int b = y;
       int c = 12;
       int k = c;
-      int l = 9;
+      int l = 15;
       int m = l;
 
       Console.WriteLine(x);
